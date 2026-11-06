@@ -1,0 +1,182 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Product {
+  id          Int         @id @default(autoincrement())
+  name        String
+  description String?
+  price       Float
+  stock       Int         @default(0)
+  category    String      @default("Girls")
+  categories  String[]    @default([])
+  ageGroup    String      @default("0-1 Yrs")
+  ageGroups   String[]    @default([])
+  style       String      @default("Regular")
+  imageUrl    String?
+  createdAt   DateTime    @default(now())
+  updatedAt   DateTime    @updatedAt
+  orderItems  OrderItem[]
+}
+
+model Order {
+  id           Int         @id @default(autoincrement())
+  customerName String      @default("WhatsApp Customer")
+  total        Float
+  status       String      @default("pending")
+  createdAt    DateTime    @default(now())
+  items        OrderItem[]
+}
+
+model OrderItem {
+  id        Int     @id @default(autoincrement())
+  orderId   Int
+  productId Int
+  name      String
+  price     Float
+  quantity  Int
+  ageGroup  String
+  order     Order   @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  product   Product @relation(fields: [productId], references: [id])
+}
+
+model Banner {
+  id        Int      @id @default(autoincrement())
+  imageUrl  String
+  title     String?  @default("")
+  alt       String?  @default("Babybloom Banner")
+  linkUrl   String   @default("/shop")
+  order     Int      @default(0)
+  isActive  Boolean  @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Offer {
+  id              Int      @id @default(autoincrement())
+  title           String
+  description     String?
+  discountPercent Float    @default(10)
+  scope           String   @default("SITEWIDE")
+  targetCategory  String?
+  productIds      Int[]    @default([])
+  couponCode      String?
+  bannerText      String?
+  isActive        Boolean  @default(true)
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+model Category {
+  id            Int           @id @default(autoincrement())
+  name          String        @unique
+  slug          String        @unique
+  description   String?
+  imageUrl      String?
+  subcategories Subcategory[]
+  createdAt     DateTime      @default(now())
+  updatedAt     DateTime      @updatedAt
+}
+
+model Subcategory {
+  id          Int      @id @default(autoincrement())
+  name        String
+  slug        String
+  categoryId  Int
+  category    Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@unique([categoryId, name])
+}
+
+model StoreProfile {
+  id                 Int      @id @default(1)
+  storeName          String   @default("Baby Bloom")
+  tagline            String?  @default("Everyday outfits for your little trendsetters")
+  ownerName          String?  @default("Baby Bloom Store")
+  gstNumber          String?  @default("")
+  phone              String   @default("+91 95200 42719")
+  whatsappNumber     String   @default("919520042719")
+  email              String   @default("babybloom.bb2024@gmail.com")
+  addressLine1       String?  @default("Khanna Nagar, House no. 41")
+  addressLine2       String?  @default("Opposite Kaushik Academy")
+  city               String?  @default("Haridwar")
+  state              String?  @default("Uttarakhand")
+  pincode            String?  @default("249401")
+  instagramUrl       String?  @default("https://instagram.com")
+  facebookUrl        String?  @default("https://facebook.com")
+  aboutText          String?  @default("Everyday outfits for your little trendsetters. Clothes for 1-6 years.")
+
+  codEnabled         Boolean  @default(true)
+  codNote            String?  @default("Pay in cash when your order arrives at your doorstep.")
+  upiEnabled         Boolean  @default(true)
+  upiId              String?  @default("9520042719@upi")
+  upiQrUrl           String?
+  cardEnabled        Boolean  @default(true)
+  netbankingEnabled  Boolean  @default(true)
+  bankName           String?
+  accountNumber      String?
+  ifscCode           String?
+  accountHolderName  String?
+
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+}
+
+model AgeRange {
+  id        Int      @id @default(autoincrement())
+  name      String   @unique
+  order     Int      @default(0)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Invoice {
+  id              Int      @id @default(autoincrement())
+  invoiceNumber   String   @unique
+  orderId         Int      @unique
+  customerName    String
+  customerEmail   String?  @default("")
+  customerPhone   String?  @default("")
+  customerAddress String?  @default("")
+  paymentMethod   String?  @default("COD")
+  storeName       String   @default("Baby Bloom")
+  storeGstNumber  String?  @default("")
+  storeAddress    String?  @default("")
+  storePhone      String?  @default("")
+  storeEmail      String?  @default("")
+  subtotal        Float    @default(0)
+  cgstAmount      Float    @default(0)
+  sgstAmount      Float    @default(0)
+  totalTax        Float    @default(0)
+  grandTotal      Float    @default(0)
+  itemsJson       String   @default("[]")
+  createdAt       DateTime @default(now())
+}
+
+model HomeSection {
+  id          Int      @id @default(autoincrement())
+  title       String
+  subtitle    String?
+  badge       String?
+  type        String   @default("CATEGORY")
+  category    String?
+  subcategory String?
+  minDiscount Float?
+  maxPrice    Float?
+  offerId     Int?
+  productIds  Int[]    @default([])
+  limit       Int      @default(6)
+  order       Int      @default(0)
+  isActive    Boolean  @default(true)
+  viewAllUrl  String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
