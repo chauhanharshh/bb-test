@@ -120,7 +120,7 @@ productsRouter.post("/", requireAdminAuth, async (req: Request, res: Response) =
         style: style || "Regular",
         imageUrl: primaryImage,
         images: finalImages,
-      },
+      } as any,
     });
 
     return res.status(201).json(product);
