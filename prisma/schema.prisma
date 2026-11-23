@@ -181,3 +181,11 @@ model HomeSection {
   updatedAt   DateTime @updatedAt
 }
 
+model AdminCredential {
+  id           Int      @id @default(1)
+  username     String   @default("admin")
+  passwordHash String
+  updatedAt    DateTime @default(now()) @updatedAt
+}
+
+
