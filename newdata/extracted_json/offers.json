@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome Celebration Offer",
+    "description": "Special launch discount for our early customers!",
+    "discountPercent": 50,
+    "scope": "SITEWIDE",
+    "targetCategory": "Boys",
+    "productIds": [
+      "12",
+      "11"
+    ],
+    "couponCode": "BABYBLOOM10",
+    "bannerText": "🎉 SPECIAL OFFER: 10% OFF SITE-WIDE - USE COUPON 'BABYBLOOM10'",
+    "isActive": true,
+    "createdAt": "2026-10-24 09:06:45.007",
+    "updatedAt": "2026-11-13 06:50:34.642"
+  }
+]

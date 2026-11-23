@@ -1,0 +1,202 @@
+[
+  {
+    "id": 20,
+    "name": "Casual",
+    "slug": "casual",
+    "categoryId": 4,
+    "createdAt": "2026-10-25 08:47:57.893",
+    "updatedAt": "2026-10-25 08:47:57.893"
+  },
+  {
+    "id": 22,
+    "name": "Regular",
+    "slug": "regular",
+    "categoryId": 4,
+    "createdAt": "2026-10-25 08:47:57.893",
+    "updatedAt": "2026-10-25 08:47:57.893"
+  },
+  {
+    "id": 30,
+    "name": "PANT SHIRTS",
+    "slug": "pant-shirts",
+    "categoryId": 2,
+    "createdAt": "2026-10-26 10:58:11.552",
+    "updatedAt": "2026-10-26 10:58:11.552"
+  },
+  {
+    "id": 32,
+    "name": "girls panties",
+    "slug": "girls-panties",
+    "categoryId": 5,
+    "createdAt": "2026-10-26 11:03:52.052",
+    "updatedAt": "2026-10-26 11:03:52.052"
+  },
+  {
+    "id": 33,
+    "name": "Romper",
+    "slug": "romper",
+    "categoryId": 4,
+    "createdAt": "2026-10-26 11:18:26.7",
+    "updatedAt": "2026-10-26 11:18:26.7"
+  },
+  {
+    "id": 34,
+    "name": "Girls shorts",
+    "slug": "girls-shorts",
+    "categoryId": 5,
+    "createdAt": "2026-10-26 11:26:25.669",
+    "updatedAt": "2026-10-26 11:26:25.669"
+  },
+  {
+    "id": 35,
+    "name": "Thermal",
+    "slug": "thermal",
+    "categoryId": 8,
+    "createdAt": "2026-10-26 11:53:36.304",
+    "updatedAt": "2026-10-26 11:53:36.304"
+  },
+  {
+    "id": 36,
+    "name": "camisole",
+    "slug": "camisole",
+    "categoryId": 5,
+    "createdAt": "2026-10-27 09:35:12.788",
+    "updatedAt": "2026-10-27 09:35:12.788"
+  },
+  {
+    "id": 37,
+    "name": "kurta payjama",
+    "slug": "kurta-payjama",
+    "categoryId": 2,
+    "createdAt": "2026-10-27 09:56:42.129",
+    "updatedAt": "2026-10-27 09:56:42.129"
+  },
+  {
+    "id": 38,
+    "name": "Coat pant",
+    "slug": "coat-pant",
+    "categoryId": 2,
+    "createdAt": "2026-10-27 09:56:55.137",
+    "updatedAt": "2026-10-27 09:56:55.137"
+  },
+  {
+    "id": 39,
+    "name": "Dhoti kurta",
+    "slug": "dhoti-kurta",
+    "categoryId": 2,
+    "createdAt": "2026-10-27 09:57:10.686",
+    "updatedAt": "2026-10-27 09:57:10.686"
+  },
+  {
+    "id": 40,
+    "name": "frock",
+    "slug": "frock",
+    "categoryId": 1,
+    "createdAt": "2026-10-27 09:57:36.827",
+    "updatedAt": "2026-10-27 09:57:36.827"
+  },
+  {
+    "id": 41,
+    "name": "skirt",
+    "slug": "skirt",
+    "categoryId": 1,
+    "createdAt": "2026-10-27 09:57:43.196",
+    "updatedAt": "2026-10-27 09:57:43.196"
+  },
+  {
+    "id": 42,
+    "name": "jeans tishirt",
+    "slug": "jeans-tishirt",
+    "categoryId": 2,
+    "createdAt": "2026-10-27 09:57:58.801",
+    "updatedAt": "2026-10-27 09:57:58.801"
+  },
+  {
+    "id": 43,
+    "name": "suit",
+    "slug": "suit",
+    "categoryId": 1,
+    "createdAt": "2026-10-27 09:58:06.402",
+    "updatedAt": "2026-10-27 09:58:06.402"
+  },
+  {
+    "id": 44,
+    "name": "lehnga choli",
+    "slug": "lehnga-choli",
+    "categoryId": 1,
+    "createdAt": "2026-10-27 09:58:14.642",
+    "updatedAt": "2026-10-27 09:58:14.642"
+  },
+  {
+    "id": 45,
+    "name": "Dress",
+    "slug": "dress",
+    "categoryId": 1,
+    "createdAt": "2026-10-27 09:58:25.937",
+    "updatedAt": "2026-10-27 09:58:25.937"
+  },
+  {
+    "id": 46,
+    "name": "woollen Dress",
+    "slug": "woollen-dress",
+    "categoryId": 1,
+    "createdAt": "2026-10-27 09:58:55.816",
+    "updatedAt": "2026-10-27 09:58:55.816"
+  },
+  {
+    "id": 48,
+    "name": "socks",
+    "slug": "socks",
+    "categoryId": 8,
+    "createdAt": "2026-10-27 10:01:07.41",
+    "updatedAt": "2026-10-27 10:01:07.41"
+  },
+  {
+    "id": 49,
+    "name": "cap",
+    "slug": "cap",
+    "categoryId": 8,
+    "createdAt": "2026-10-27 10:01:42.868",
+    "updatedAt": "2026-10-27 10:01:42.868"
+  },
+  {
+    "id": 50,
+    "name": "knitted top Bottom",
+    "slug": "knitted-top-bottom",
+    "categoryId": 2,
+    "createdAt": "2026-10-27 10:17:02.004",
+    "updatedAt": "2026-10-27 10:17:02.004"
+  },
+  {
+    "id": 51,
+    "name": "Casual",
+    "slug": "casual",
+    "categoryId": 9,
+    "createdAt": "2026-10-29 07:17:40.752",
+    "updatedAt": "2026-10-29 07:17:40.752"
+  },
+  {
+    "id": 52,
+    "name": "Party Wear",
+    "slug": "party-wear",
+    "categoryId": 9,
+    "createdAt": "2026-10-29 07:17:40.752",
+    "updatedAt": "2026-10-29 07:17:40.752"
+  },
+  {
+    "id": 53,
+    "name": "Regular",
+    "slug": "regular",
+    "categoryId": 9,
+    "createdAt": "2026-10-29 07:17:40.752",
+    "updatedAt": "2026-10-29 07:17:40.752"
+  },
+  {
+    "id": 58,
+    "name": "Jacket",
+    "slug": "jacket",
+    "categoryId": 1,
+    "createdAt": "2026-11-03 10:41:49.136",
+    "updatedAt": "2026-11-03 10:41:49.136"
+  }
+]

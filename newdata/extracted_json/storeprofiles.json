@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "storeName": "Baby Bloom",
+    "tagline": "Everyday outfits for your little trendsetters",
+    "ownerName": "Annu Negi",
+    "phone": "+91 95200 42719",
+    "whatsappNumber": 919520042719,
+    "email": "babybloom.bb2024@gmail.com",
+    "addressLine1": "Khanna Nagar, House no. 41",
+    "addressLine2": "Opposite Kaushik Academy",
+    "city": "Haridwar",
+    "state": "Uttarakhand",
+    "pincode": 249401,
+    "instagramUrl": "https://instagram.com",
+    "facebookUrl": "https://facebook.com",
+    "aboutText": "Everyday outfits for your little trendsetters. Clothes for 1-6 years.",
+    "codEnabled": true,
+    "codNote": "Pay in cash when your order arrives at your doorstep.",
+    "upiEnabled": false,
+    "upiId": "9520042719@upi",
+    "upiQrUrl": "",
+    "cardEnabled": false,
+    "netbankingEnabled": false,
+    "bankName": "",
+    "accountNumber": "",
+    "ifscCode": "",
+    "accountHolderName": "",
+    "createdAt": "2026-10-26 10:22:01.074",
+    "updatedAt": "2026-10-30 07:21:21.743",
+    "gstNumber": ""
+  }
+]

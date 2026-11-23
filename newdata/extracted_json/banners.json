@@ -1,0 +1,46 @@
+[
+  {
+    "id": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=2000&q=85",
+    "title": "Festive Collection",
+    "alt": "Babybloom Festive Collection - Flat Discount on Premium Kids Wear",
+    "linkUrl": "/shop",
+    "order": 2,
+    "isActive": true,
+    "createdAt": "2026-10-24 09:06:44.362",
+    "updatedAt": "2026-10-24 09:06:44.362"
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1522771930-78848d9293e8?auto=format&fit=crop&w=2000&q=85",
+    "title": "Girls Wear Frocks & Party Dresses",
+    "alt": "Girls Wear Frocks & Party Dresses",
+    "linkUrl": "/girls",
+    "order": 3,
+    "isActive": true,
+    "createdAt": "2026-10-24 09:06:44.362",
+    "updatedAt": "2026-10-24 09:06:44.362"
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://images.unsplash.com/photo-1514090458221-65bb69cf63e6?auto=format&fit=crop&w=2000&q=85",
+    "title": "Boys Fashion Sets",
+    "alt": "Boys Fashion Sets, Tees and Dungarees",
+    "linkUrl": "/boys",
+    "order": 4,
+    "isActive": true,
+    "createdAt": "2026-10-24 09:06:44.362",
+    "updatedAt": "2026-10-24 09:06:44.362"
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793103393/hrknpoyo03gjhomsdwgy.jpg",
+    "title": "",
+    "alt": "Babybloom Banner",
+    "linkUrl": "/shop",
+    "order": 1,
+    "isActive": true,
+    "createdAt": "2026-10-27 12:17:17.49",
+    "updatedAt": "2026-11-13 06:46:25.687"
+  }
+]

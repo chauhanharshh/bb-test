@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "BB-INV-2026-0003",
+    "orderId": 3,
+    "customerName": "Rahul Sharma",
+    "customerEmail": "rahul@example.com",
+    "customerPhone": 9876543210,
+    "customerAddress": "House 41, Street 3 Near Kaushik Academy Haridwar - 249401, Uttarakhand",
+    "paymentMethod": "cod",
+    "storeName": "Baby Bloom",
+    "storeGstNumber": "",
+    "storeAddress": "Khanna Nagar, House no. 41, Opposite Kaushik Academy, Haridwar, Uttarakhand, 249401",
+    "storePhone": "+91 95200 42719",
+    "storeEmail": "babybloom.bb2024@gmail.com",
+    "subtotal": 1070.54,
+    "cgstAmount": 64.23,
+    "sgstAmount": 64.23,
+    "totalTax": 128.46,
+    "grandTotal": 1199,
+    "itemsJson": [
+      {
+        "sno": 1,
+        "name": "Blue Kurta with Pajama ",
+        "ageGroup": "3-4 Yrs",
+        "hsnCode": "6111",
+        "quantity": 1,
+        "unitPrice": 1199,
+        "lineTotal": 1199,
+        "gstRate": 12,
+        "taxableValue": 1070.54,
+        "cgstRate": 6,
+        "cgstAmount": 64.23,
+        "sgstRate": 6,
+        "sgstAmount": 64.23
+      }
+    ],
+    "createdAt": "2026-10-30 09:10:08.665"
+  }
+]
