@@ -319,3 +319,126 @@ export async function dbDeleteSection(id: number): Promise<boolean> {
   }
 }
 
+/**
+ * Filter and sort products according to a section configuration
+ */
+export function filterProductsForSection(
+  section: HomeSectionItem,
+  products: any[],
+  activeOffers: any[] = []
+): any[] {
+  let matched = [...products];
+
+  const enrichedProducts = matched.map((p) => {
+    return {
+      ...p,
+      price: p.price,
+      discountPercent: p.discountPercent || 0,
+    };
+  });
+
+  switch (section.type) {
+    case "CATEGORY": {
+      if (section.category) {
+        const catTarget = section.category.toLowerCase().trim();
+        matched = enrichedProducts.filter((p) => {
+          const pCat = (p.category || "").toLowerCase().trim();
+          const pCats = Array.isArray(p.categories) ? p.categories.map((c: string) => c.toLowerCase()) : [];
+          return (
+            pCat === catTarget ||
+            pCats.includes(catTarget) ||
+            pCat.includes(catTarget) ||
+            catTarget.includes(pCat) ||
+            (catTarget.includes("baby") && (pCat.includes("romper") || pCat.includes("baby") || pCat.includes("newborn"))) ||
+            (catTarget.includes("newborn") && (pCat.includes("romper") || pCat.includes("baby") || pCat.includes("newborn")))
+          );
+        });
+      }
+      if (section.subcategory) {
+        const subTarget = section.subcategory.toLowerCase().trim();
+        const subMatched = matched.filter((p) => {
+          const pStyle = (p.style || "").toLowerCase().trim();
+          const pName = (p.name || "").toLowerCase();
+          const pDesc = (p.description || "").toLowerCase();
+          return pStyle === subTarget || pName.includes(subTarget) || pDesc.includes(subTarget);
+        });
+        if (subMatched.length > 0) {
+          matched = subMatched;
+        }
+      }
+      break;
+    }
+
+    case "DISCOUNT": {
+      const minDisc = Number(section.minDiscount) || 10;
+      matched = enrichedProducts.filter((p) => (p.discountPercent || 0) >= minDisc);
+      if (matched.length === 0) {
+        matched = enrichedProducts.filter((p) => (p.discountPercent || 0) > 0);
+      }
+      if (matched.length === 0) {
+        matched = enrichedProducts;
+      }
+      matched.sort((a, b) => (b.discountPercent || 0) - (a.discountPercent || 0));
+      break;
+    }
+
+    case "PRICE_UNDER": {
+      const maxP = Number(section.maxPrice) || 999;
+      matched = enrichedProducts.filter((p) => p.price <= maxP);
+      if (matched.length === 0) {
+        matched = enrichedProducts;
+      }
+      matched.sort((a, b) => a.price - b.price);
+      break;
+    }
+
+    case "OFFER": {
+      if (section.offerId) {
+        matched = enrichedProducts.filter(
+          (p) => p.appliedOffer && p.appliedOffer.id === Number(section.offerId)
+        );
+      } else {
+        matched = enrichedProducts.filter((p) => (p.discountPercent || 0) > 0);
+      }
+      if (matched.length === 0) {
+        matched = enrichedProducts;
+      }
+      break;
+    }
+
+    case "NEWEST": {
+      matched = [...enrichedProducts].sort((a, b) => {
+        const timeA = new Date(a.createdAt || 0).getTime();
+        const timeB = new Date(b.createdAt || 0).getTime();
+        return timeB - timeA;
+      });
+      break;
+    }
+
+    case "CURATED": {
+      if (Array.isArray(section.productIds) && section.productIds.length > 0) {
+        const idSet = new Set(section.productIds.map(Number));
+        matched = enrichedProducts.filter((p) => idSet.has(Number(p.id)));
+      }
+      if (matched.length === 0) {
+        matched = enrichedProducts;
+      }
+      break;
+    }
+
+    case "BEST_SELLERS":
+    default: {
+      matched = enrichedProducts;
+      break;
+    }
+  }
+
+  if (matched.length === 0) {
+    matched = enrichedProducts;
+  }
+
+  const limit = Math.max(1, Number(section.limit) || 6);
+  return matched.slice(0, limit);
+}
+
+

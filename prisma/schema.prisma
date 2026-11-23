@@ -19,6 +19,7 @@ model Product {
   ageGroups   String[]    @default([])
   style       String      @default("Regular")
   imageUrl    String?
+  images      String[]    @default([])
   createdAt   DateTime    @default(now())
   updatedAt   DateTime    @updatedAt
   orderItems  OrderItem[]
