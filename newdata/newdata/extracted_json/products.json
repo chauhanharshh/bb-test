@@ -1,0 +1,2868 @@
+[
+  {
+    "id": 24,
+    "name": "Frock",
+    "description": "pree winter frock with bottom , comfort cozy",
+    "price": 499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793092690/vekeesf2ftq159y5iypv.jpg",
+    "createdAt": "2026-10-27 09:19:59.496",
+    "updatedAt": "2026-11-13 06:41:54.013",
+    "ageGroup": "2-3 Yrs",
+    "category": "Girls",
+    "stock": 3,
+    "style": "Regular",
+    "ageGroups": [
+      "2-3 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Frock",
+    "description": "Frock with bottom, Pree winter",
+    "price": 499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793092906/wbslrdjdvhf0wusi7dpb.jpg",
+    "createdAt": "2026-10-27 09:23:45.513",
+    "updatedAt": "2026-11-13 06:41:14.097",
+    "ageGroup": "2-3 Yrs",
+    "category": "Girls",
+    "stock": 2,
+    "style": "Regular",
+    "ageGroups": [
+      "2-3 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Dress",
+    "description": "co-ord set , woolen soft Fabric",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793097208/orq8tyz1l8ofue8cecse.jpg",
+    "createdAt": "2026-10-27 10:52:01.719",
+    "updatedAt": "2026-10-30 06:53:33.588",
+    "ageGroup": "4-5 Yrs",
+    "category": "Girls",
+    "stock": 2,
+    "style": "woollen Dress",
+    "ageGroups": [
+      "4-5 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "New born ",
+    "description": "New born , white romper ",
+    "price": 799,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793085339/wo3x61uoel6cummnk0tc.jpg",
+    "createdAt": "2026-10-27 07:17:31.051",
+    "updatedAt": "2026-10-30 06:53:33.92",
+    "ageGroup": "0-1 Yrs",
+    "category": "Romper",
+    "stock": 2,
+    "style": "Regular",
+    "ageGroups": [
+      "0-1 Yrs"
+    ],
+    "categories": [
+      "Romper"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "panty shorts",
+    "description": "Body care, girls shorts, pack of 60cm ",
+    "price": 320,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793014409/yddfpkpizbpzjmrmflel.jpg",
+    "createdAt": "2026-10-26 11:43:28.374",
+    "updatedAt": "2026-10-30 06:53:34.472",
+    "ageGroup": "3-4 Yrs",
+    "category": "Innerwear",
+    "stock": 2,
+    "style": "girls panties",
+    "ageGroups": [
+      "3-4 Yrs"
+    ],
+    "categories": [
+      "Innerwear"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Romper",
+    "description": "prewinter full body suit, soft fabric, comfort cozy ",
+    "price": 799,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793094319/iutbmqsbht3hjsfm1xud.jpg",
+    "createdAt": "2026-10-27 09:46:17.545",
+    "updatedAt": "2026-10-30 06:53:34.711",
+    "ageGroup": "0-1 Yrs",
+    "category": "Romper",
+    "stock": 4,
+    "style": "Casual",
+    "ageGroups": [
+      "0-1 Yrs"
+    ],
+    "categories": [
+      "Romper"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Luvlap ",
+    "description": "winter regular ",
+    "price": 599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793099158/teq6dvjn1le66cdoddmu.jpg",
+    "createdAt": "2026-10-27 11:06:57.654",
+    "updatedAt": "2026-11-13 06:34:27.805",
+    "ageGroup": "0-6 Months, 6-12 Months, 1-2 Yrs",
+    "category": "Baby wear",
+    "stock": 3,
+    "style": "Regular",
+    "ageGroups": [
+      "0-6 Months",
+      "6-12 Months",
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Top Bottom",
+    "description": "Top Bottom, woolen Dress",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793098772/odrxfofzsvuvx4ysk6ck.jpg",
+    "createdAt": "2026-10-27 11:00:49.07",
+    "updatedAt": "2026-11-13 06:35:22.822",
+    "ageGroup": "0-1 Yrs, 1-2 Yrs",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Casual",
+    "ageGroups": [
+      "0-1 Yrs",
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "knitted top Bottom",
+    "description": "Top Bottom cap woolen ",
+    "price": 899,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793098491/csxegi0wpesr2uhppauo.jpg",
+    "createdAt": "2026-10-27 10:55:52.482",
+    "updatedAt": "2026-10-30 06:53:36.154",
+    "ageGroup": "0-1 Yrs",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Casual",
+    "ageGroups": [
+      "0-1 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Dress",
+    "description": "woolen Dress, soft fabric",
+    "price": 899,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793095847/lrqhubdtzle2oawb6ak5.jpg",
+    "createdAt": "2026-10-27 10:12:02.846",
+    "updatedAt": "2026-10-30 06:53:36.276",
+    "ageGroup": "1-2 Yrs",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Casual",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Luvlap ",
+    "description": "winter regular ",
+    "price": 599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793099314/vii2ujhu7okovuxsc8zk.jpg",
+    "createdAt": "2026-10-27 11:09:44.484",
+    "updatedAt": "2026-11-13 06:34:08.899",
+    "ageGroup": "0-6 Months, 6-12 Months, 1-2 Yrs",
+    "category": "Baby wear",
+    "stock": 3,
+    "style": "Regular",
+    "ageGroups": [
+      "0-6 Months",
+      "6-12 Months",
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Dress",
+    "description": "knitted Frock",
+    "price": 1299,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793096640/z8phsp0rqwjh7phf3aaq.jpg",
+    "createdAt": "2026-10-27 10:24:52.297",
+    "updatedAt": "2026-11-13 06:37:03.163",
+    "ageGroup": "4-5 Yrs, 5-6 Yrs",
+    "category": "Girls",
+    "stock": 2,
+    "style": "Dress",
+    "ageGroups": [
+      "4-5 Yrs",
+      "5-6 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Lehnga choli",
+    "description": "soft cotton fabric , cotton inner lining",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793094557/tcmosggrg34yze7plo0m.jpg",
+    "createdAt": "2026-10-27 09:51:58.205",
+    "updatedAt": "2026-11-13 06:37:58.841",
+    "ageGroup": "1-2 Yrs",
+    "category": "Girls",
+    "stock": 2,
+    "style": "Ethnic Wear",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Romper",
+    "description": "Full body suit, party wear ",
+    "price": 799,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793085829/nb18hdezt6xnrtg9agix.jpg",
+    "createdAt": "2026-10-27 07:25:09.979",
+    "updatedAt": "2026-10-30 06:53:32.598",
+    "ageGroup": "0-1 Yrs",
+    "category": "Romper",
+    "stock": 5,
+    "style": "Romper",
+    "ageGroups": [
+      "0-1 Yrs"
+    ],
+    "categories": [
+      "Romper"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "panty pack of 3",
+    "description": "60 cm",
+    "price": 325,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793085956/zkohbdi4zjxdncbg1ikw.jpg",
+    "createdAt": "2026-10-27 07:29:48.685",
+    "updatedAt": "2026-10-30 06:53:32.821",
+    "ageGroup": "3-4 Yrs",
+    "category": "Innerwear",
+    "stock": 3,
+    "style": "girls panties",
+    "ageGroups": [
+      "3-4 Yrs"
+    ],
+    "categories": [
+      "Innerwear"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Denim Set",
+    "description": null,
+    "price": 1299,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793012317/ve0ukoolhy8chbmruam2.jpg",
+    "createdAt": "2026-10-26 10:59:28.7",
+    "updatedAt": "2026-11-13 06:42:33.831",
+    "ageGroup": "2-3 Yrs",
+    "category": "Boys",
+    "stock": 10,
+    "style": "PANT SHIRTS",
+    "ageGroups": [
+      "2-3 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "shrara suit ",
+    "description": "party wear, comfort cozy ",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793093204/agvpegtnvs7bebp2ddng.jpg",
+    "createdAt": "2026-10-27 09:28:01.847",
+    "updatedAt": "2026-11-13 06:38:56.158",
+    "ageGroup": "0-1 Yrs",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Party Wear",
+    "ageGroups": [
+      "0-1 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Frock",
+    "description": "Frock with bottom, comfort cozy",
+    "price": 499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793093075/ie1cyx95xcsikkisji5h.jpg",
+    "createdAt": "2026-10-27 09:26:13.547",
+    "updatedAt": "2026-11-13 06:41:01.493",
+    "ageGroup": "2-3 Yrs",
+    "category": "Girls",
+    "stock": 3,
+    "style": "Regular",
+    "ageGroups": [
+      "2-3 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "camisole",
+    "description": "girls vest , body care, 80 cm",
+    "price": 125,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793093733/a7wr5rxawdj7l5dbcknx.jpg",
+    "createdAt": "2026-10-27 09:36:29.838",
+    "updatedAt": "2026-10-30 06:53:34.043",
+    "ageGroup": "5-6 Yrs",
+    "category": "Innerwear",
+    "stock": 5,
+    "style": "camisole",
+    "ageGroups": [
+      "5-6 Yrs"
+    ],
+    "categories": [
+      "Innerwear"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "camisole",
+    "description": "Body care, pack of 3, girls vest",
+    "price": 375,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793093809/ck2dnagd534p7k1jxzsd.jpg",
+    "createdAt": "2026-10-27 09:37:50.504",
+    "updatedAt": "2026-10-30 06:53:34.154",
+    "ageGroup": "5-6 Yrs",
+    "category": "Innerwear",
+    "stock": 4,
+    "style": "camisole",
+    "ageGroups": [
+      "5-6 Yrs"
+    ],
+    "categories": [
+      "Innerwear"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "panty pack of 3",
+    "description": "Body care , pack of 3,    60 cm ",
+    "price": 420,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793092255/swarfhpwxcvezipoofd2.jpg",
+    "createdAt": "2026-10-27 09:15:34.344",
+    "updatedAt": "2026-10-30 06:53:34.368",
+    "ageGroup": "3-4 Yrs",
+    "category": "Innerwear",
+    "stock": 4,
+    "style": "girls panties",
+    "ageGroups": [
+      "3-4 Yrs"
+    ],
+    "categories": [
+      "Innerwear"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "suits",
+    "description": "Suit for girls, Ethnic wear",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793094729/xnzwnkjihjhuy55clw9l.jpg",
+    "createdAt": "2026-10-27 09:53:35.818",
+    "updatedAt": "2026-10-30 06:53:34.934",
+    "ageGroup": "5-6 Yrs",
+    "category": "Girls",
+    "stock": 1,
+    "style": "Ethnic Wear",
+    "ageGroups": [
+      "5-6 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Patiyala suit",
+    "description": "Ethinic suit for Girls",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793094828/mqqzunikxiaevmqm1c75.jpg",
+    "createdAt": "2026-10-27 09:54:59.891",
+    "updatedAt": "2026-10-30 06:53:35.043",
+    "ageGroup": "5-6 Yrs",
+    "category": "Girls",
+    "stock": 2,
+    "style": "Ethnic Wear",
+    "ageGroups": [
+      "5-6 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Dhoti kurta",
+    "description": "cotton Fabric , Festive",
+    "price": 499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793095488/gxo5lw0ej7lrjl3as3qt.jpg",
+    "createdAt": "2026-10-27 10:05:42.024",
+    "updatedAt": "2026-10-30 06:53:35.268",
+    "ageGroup": "2-3 Yrs",
+    "category": "Boys",
+    "stock": 2,
+    "style": "Dhoti kurta",
+    "ageGroups": [
+      "2-3 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Dhoti kurta",
+    "description": "cotton Fabric,",
+    "price": 499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793095550/clhmoav5ecpp9cgzosbw.jpg",
+    "createdAt": "2026-10-27 10:06:59.514",
+    "updatedAt": "2026-10-30 06:53:35.375",
+    "ageGroup": "2-3 Yrs",
+    "category": "Boys",
+    "stock": 2,
+    "style": "Dhoti kurta",
+    "ageGroups": [
+      "2-3 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Dhoti Kurta",
+    "description": "cotton Dhoti kurta ",
+    "price": 499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793095632/kn6y83fjmksabm5067h0.jpg",
+    "createdAt": "2026-10-27 10:07:51.397",
+    "updatedAt": "2026-10-30 06:53:35.495",
+    "ageGroup": "2-3 Yrs",
+    "category": "Boys",
+    "stock": 2,
+    "style": "Dhoti kurta",
+    "ageGroups": [
+      "2-3 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Luvlap ",
+    "description": "Luvlap thermal ",
+    "price": 599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793100970/fe5uj0r8icmol4jpyexc.jpg",
+    "createdAt": "2026-10-27 11:25:22.327",
+    "updatedAt": "2026-11-18 12:03:44.045",
+    "ageGroup": "0-6 Months",
+    "category": "Thermal",
+    "stock": 10,
+    "style": "Thermal",
+    "ageGroups": [
+      "0-6 Months"
+    ],
+    "categories": [
+      "Thermal"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Girls panty ",
+    "description": "body care , 80cm \\ pack of 3 ",
+    "price": 450,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793101649/c4enecl7iyqkctutxlmy.jpg",
+    "createdAt": "2026-10-27 11:50:45.693",
+    "updatedAt": "2026-10-30 06:53:36.972",
+    "ageGroup": "5-6 Yrs",
+    "category": "Innerwear",
+    "stock": 3,
+    "style": "girls panties",
+    "ageGroups": [
+      "5-6 Yrs"
+    ],
+    "categories": [
+      "Innerwear"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Girls panty ",
+    "description": "Body care/ girls shorts/ 65cm/ pack of 2  ",
+    "price": 290,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793102084/wxkplpgxl25jrc7diowp.jpg",
+    "createdAt": "2026-10-27 11:56:30.534",
+    "updatedAt": "2026-10-30 06:53:37.317",
+    "ageGroup": "4-5 Yrs",
+    "category": "Innerwear",
+    "stock": 3,
+    "style": "girls panties",
+    "ageGroups": [
+      "4-5 Yrs"
+    ],
+    "categories": [
+      "Innerwear"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Girls panty ",
+    "description": "body care/ girls shorts/ 80cm/ pack of 2  ",
+    "price": 320,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793102552/uiadaskeltkf735g2q7p.jpg",
+    "createdAt": "2026-10-27 12:03:48.016",
+    "updatedAt": "2026-10-30 06:53:37.432",
+    "ageGroup": "5-6 Yrs",
+    "category": "Innerwear",
+    "stock": 3,
+    "style": "girls panties",
+    "ageGroups": [
+      "5-6 Yrs"
+    ],
+    "categories": [
+      "Innerwear"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Pant shirt",
+    "description": "cotton shirt with pant",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793255891/dpyedptpxqorebz0exls.jpg",
+    "createdAt": "2026-10-29 06:39:30.21",
+    "updatedAt": "2026-11-13 06:27:37.119",
+    "ageGroup": "1-2 Yrs, 2-3 Yrs, 3-4 Yrs, 4-5 Yrs, 5-6 Yrs, 6-7 Yrs, 7-8 Yrs",
+    "category": "Boys",
+    "stock": 8,
+    "style": "PANT SHIRTS",
+    "ageGroups": [
+      "1-2 Yrs",
+      "2-3 Yrs",
+      "3-4 Yrs",
+      "4-5 Yrs",
+      "5-6 Yrs",
+      "6-7 Yrs",
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Luvlap ",
+    "description": "winter regular ",
+    "price": 599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793099422/encsynykwidvk3vrw4i0.jpg",
+    "createdAt": "2026-10-27 11:11:17.09",
+    "updatedAt": "2026-11-13 06:33:49.381",
+    "ageGroup": "0-6 Months, 6-12 Months, 1-2 Yrs",
+    "category": "Baby wear",
+    "stock": 3,
+    "style": "Casual",
+    "ageGroups": [
+      "0-6 Months",
+      "6-12 Months",
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Romper",
+    "description": "party wear , semi winter  fabric",
+    "price": 799,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793013535/e5nkr8sxol6ayikbfp6o.jpg",
+    "createdAt": "2026-10-26 11:21:14.795",
+    "updatedAt": "2026-10-30 06:53:33.703",
+    "ageGroup": "0-1 Yrs",
+    "category": "Romper",
+    "stock": 2,
+    "style": "Casual",
+    "ageGroups": [
+      "0-1 Yrs"
+    ],
+    "categories": [
+      "Romper"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Dhoti kurta ",
+    "description": "Dhoti Kurta , soft cotton fabric , comfort",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793265978/b3jfferl1eqxkamrsiwm.jpg",
+    "createdAt": "2026-10-29 09:26:41.382",
+    "updatedAt": "2026-11-13 06:23:23.148",
+    "ageGroup": "1-2 Yrs",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Party Wear",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Romper",
+    "description": "Full Body Suit, cotton hojri comfort cozy fabric",
+    "price": 799,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793094173/awlaovr74cs6aqlprpss.jpg",
+    "createdAt": "2026-10-27 09:45:02.001",
+    "updatedAt": "2026-10-30 06:53:34.597",
+    "ageGroup": "0-1 Yrs",
+    "category": "Romper",
+    "stock": 3,
+    "style": "Regular",
+    "ageGroups": [
+      "0-1 Yrs"
+    ],
+    "categories": [
+      "Romper"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Kurta pajama",
+    "description": "cotton silk, festive article",
+    "price": 899,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793095419/ubkdj2kmfccz2bif2qmn.jpg",
+    "createdAt": "2026-10-27 10:04:38.282",
+    "updatedAt": "2026-10-30 06:53:35.153",
+    "ageGroup": "5-6 Yrs",
+    "category": "Boys",
+    "stock": 2,
+    "style": "kurta payjama",
+    "ageGroups": [
+      "5-6 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Kurta pjama",
+    "description": "kurta pajama, soft cotton silk",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793257932/hqmiqznpospshicgw021.jpg",
+    "createdAt": "2026-10-29 07:14:13.728",
+    "updatedAt": "2026-11-13 06:24:40.591",
+    "ageGroup": "1-2 Yrs",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Casual",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Boys Ethnic Kurta-Pajama set ",
+    "description": "Colour/Saffron Orange / Kesariya \nNeck Style/Mandarin (Band) Collar \nPattern/Front par embroidered placket design  \nBottom/White churidar Pajama \nStyle /Traditional Indizan Festive / Weddding Wear ",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793266924/qcopukmw2zymlzgsr4v7.jpg",
+    "createdAt": "2026-10-29 09:59:10.762",
+    "updatedAt": "2026-10-30 06:53:37.08",
+    "ageGroup": "3-4 Yrs",
+    "category": "Boys",
+    "stock": 5,
+    "style": "kurta payjama",
+    "ageGroups": [
+      "3-4 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Girls panty ",
+    "description": "Body care 65cm / pack of 3",
+    "price": 420,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793101895/omc0zpnekoezfzyg0zao.jpg",
+    "createdAt": "2026-10-27 11:53:04.417",
+    "updatedAt": "2026-10-30 06:53:37.19",
+    "ageGroup": "5-6 Yrs",
+    "category": "Innerwear",
+    "stock": 3,
+    "style": "girls panties",
+    "ageGroups": [
+      "5-6 Yrs"
+    ],
+    "categories": [
+      "Innerwear"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "3 piece suit",
+    "description": "winter wear, fleece article ",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793255316/espgobd5wamcqddjgiqt.jpg",
+    "createdAt": "2026-10-29 06:32:53.399",
+    "updatedAt": "2026-10-30 06:53:37.662",
+    "ageGroup": "1-2 Yrs",
+    "category": "Boys",
+    "stock": 2,
+    "style": "PANT SHIRTS",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Luvlap ",
+    "description": "winter regular ",
+    "price": 599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793099519/vxzg2h3ru4rcqqmtaybd.jpg",
+    "createdAt": "2026-10-27 11:12:46.603",
+    "updatedAt": "2026-11-13 06:32:54.803",
+    "ageGroup": "0-6 Months, 6-12 Months, 1-2 Yrs",
+    "category": "Baby wear",
+    "stock": 3,
+    "style": "Casual",
+    "ageGroups": [
+      "0-6 Months",
+      "6-12 Months",
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Pant shirt",
+    "description": "3 piece set , half t-shirt cotton full shirt",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793255609/veditpa7wgo7n2alntck.jpg",
+    "createdAt": "2026-10-29 06:36:24.181",
+    "updatedAt": "2026-11-13 06:27:59.517",
+    "ageGroup": "1-2 Yrs, 2-3 Yrs, 3-4 Yrs, 4-5 Yrs, 5-6 Yrs, 6-7 Yrs, 7-8 Yrs",
+    "category": "Boys",
+    "stock": 8,
+    "style": "PANT SHIRTS",
+    "ageGroups": [
+      "1-2 Yrs",
+      "2-3 Yrs",
+      "3-4 Yrs",
+      "4-5 Yrs",
+      "5-6 Yrs",
+      "6-7 Yrs",
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Dress",
+    "description": "knitted Frock",
+    "price": 1299,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793098404/lqxmlw1bge6zexjbzg1g.jpg",
+    "createdAt": "2026-10-27 10:53:46.681",
+    "updatedAt": "2026-11-13 06:36:32.279",
+    "ageGroup": "4-5 Yrs, 5-6 Yrs",
+    "category": "Girls",
+    "stock": 2,
+    "style": "woollen Dress",
+    "ageGroups": [
+      "4-5 Yrs",
+      "5-6 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Kurta pjama",
+    "description": "cotton soft silk with embroidery, ",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793256588/jj6dgcgx7xxaflf0phxc.jpg",
+    "createdAt": "2026-10-29 06:55:24.749",
+    "updatedAt": "2026-11-13 06:24:55.819",
+    "ageGroup": "1-2 Yrs",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Casual",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Luvlap ",
+    "description": "Top bottom set , winter\n3 Month to 18 Month \nDress your little one in comfort, cuteness, and style! 💕 Soft, cozy, and adorable outfits for your little bundle of joy.",
+    "price": 599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793005821/qhpqz9ozd6dnwrdpjvya.jpg",
+    "createdAt": "2026-10-26 09:16:18.925",
+    "updatedAt": "2026-11-13 06:43:47.542",
+    "ageGroup": "0-12 Months, 6-12 Months",
+    "category": "Baby wear",
+    "stock": 10,
+    "style": "Regular",
+    "ageGroups": [
+      "0-12 Months",
+      "6-12 Months"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Kurta Dhoti",
+    "description": "Dhoti Kurta , heavy embraided, soft Fabric",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793261338/rrjsaie7wksawjjkifrl.jpg",
+    "createdAt": "2026-10-29 08:11:36.937",
+    "updatedAt": "2026-11-13 06:22:58.652",
+    "ageGroup": "1-2 Yrs",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Party Wear",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Dhoti Kurta",
+    "description": "Dhoti Kurta , soft cotton fabric , comfort cozy stylish",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793261527/jcfikuqhrsryfrz8tsvm.jpg",
+    "createdAt": "2026-10-29 08:13:56.254",
+    "updatedAt": "2026-11-13 06:22:28.134",
+    "ageGroup": "0-1 Yrs",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Party Wear",
+    "ageGroups": [
+      "0-1 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "suit Ethenic ",
+    "description": "Beautiful Ethenic , party wear, soft fabric, silk cotton ",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793093341/cpg6djluoqtwsk4edsyu.jpg",
+    "createdAt": "2026-10-27 09:31:17.632",
+    "updatedAt": "2026-11-13 06:38:40.299",
+    "ageGroup": "0-1 Yrs",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Party Wear",
+    "ageGroups": [
+      "0-1 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Kandy floss ",
+    "description": "Thermal ",
+    "price": 720,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793100981/gyieccljhio26nwx1vlt.jpg",
+    "createdAt": "2026-10-27 11:31:48.264",
+    "updatedAt": "2026-11-18 12:02:22.29",
+    "ageGroup": "0-6 Months, 6-12 Months",
+    "category": "Thermal",
+    "stock": 10,
+    "style": "Thermal",
+    "ageGroups": [
+      "0-6 Months",
+      "6-12 Months"
+    ],
+    "categories": [
+      "Thermal"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Girls panty ",
+    "description": "Body care/ girls shorts/ 60cm/ pack of 3",
+    "price": 405,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793102792/mt8ctrblktooxzokc7n6.jpg",
+    "createdAt": "2026-10-27 12:08:53.476",
+    "updatedAt": "2026-10-30 06:53:37.548",
+    "ageGroup": "4-5 Yrs",
+    "category": "Innerwear",
+    "stock": 3,
+    "style": "girls panties",
+    "ageGroups": [
+      "4-5 Yrs"
+    ],
+    "categories": [
+      "Innerwear"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Black Kurta With Pajama ",
+    "description": "Color / Black Kurta & White Pajama \nStyle / Ethnic / Indo-Western \nPattern / Textured with Embroidered Detailing \n",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793342248/o5ub4nzwextccmiijope.jpg",
+    "createdAt": "2026-10-30 06:51:26.659",
+    "updatedAt": "2026-10-30 06:53:38.109",
+    "ageGroup": "3-4 Yrs",
+    "category": "Boys",
+    "stock": 5,
+    "style": "kurta payjama",
+    "ageGroups": [
+      "3-4 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Yellow kurta With Pajama ",
+    "description": "Color / Yellow Kurta & White Pajama \nStyle / Ethnic / Indo-Western \nPattern / Textured with Embroidered Detailing ",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793343385/hycjwvutqheafophyjul.jpg",
+    "createdAt": "2026-10-30 06:56:57.379",
+    "updatedAt": "2026-10-30 07:10:23.174",
+    "ageGroup": "3-4 Yrs",
+    "category": "Boys",
+    "stock": 5,
+    "style": "kurta payjama",
+    "ageGroups": [],
+    "categories": []
+  },
+  {
+    "id": 76,
+    "name": "Premium Mustard Yellow Kurta Pajama Set ",
+    "description": "Color: Mustard Yellow & Multicolor\nStyle: Traditional Ethnic / Indo-Western\nPattern: Floral & Patchwork Print\nJacket: Printed Nehru Jacket\nKurta: Full Sleeve\nBottom: Matching Yellow Pajama\nOccasion: Wedding, Haldi, Festive Wear & Special Events",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793344871/u1mtufqelgqypc9vg9yx.jpg",
+    "createdAt": "2026-10-30 07:24:57.873",
+    "updatedAt": "2026-10-30 07:24:57.873",
+    "ageGroup": "7-8 Yrs",
+    "category": "Boys",
+    "stock": 5,
+    "style": "kurta payjama",
+    "ageGroups": [],
+    "categories": []
+  },
+  {
+    "id": 74,
+    "name": "Blue Kurta with Pajama ",
+    "description": "Color / Blue Kurta & White Pajama \nStyle / Ethnic / Indo-Western \nPattern / Textured with Embroidered Detailing ",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793344233/kysl2ddoq1ldore0avo0.jpg",
+    "createdAt": "2026-10-30 07:12:03.455",
+    "updatedAt": "2026-10-30 09:10:07.234",
+    "ageGroup": "3-4 Yrs",
+    "category": "Boys",
+    "stock": 4,
+    "style": "kurta payjama",
+    "ageGroups": [],
+    "categories": []
+  },
+  {
+    "id": 82,
+    "name": "Sage Green Heavy Embroidered Peplum Kurti with Sharara Se",
+    "description": "Elegant Sage Green Girls Sharara Suit Set featuring a beautiful sleeveless peplum-style kurti with intricate golden embroidery and shimmering sequin work. Paired with stylish wide-flared sharara pants featuring pleated detailing and beautifully embroidered borders. A perfect outfit for weddings, festive celebrations, parties and special occasions.\n\nColor: Sage Green\nPattern: Heavy Embroidered\nStyle: Peplum Kurti with Sharara\nWork: Golden Zari & Sequin Work\nBottom Style: Flared Sharara\nOccasion: Party Wear / Festive Wear / Wedding Wear",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793523679/ie9xrwbf3sftbhlgtai3.jpg",
+    "createdAt": "2026-11-01 09:02:51.842",
+    "updatedAt": "2026-11-01 09:02:51.842",
+    "ageGroup": "2-3 Yrs, 3-4 Yrs, 4-5 Yrs",
+    "category": "Girls",
+    "stock": 4,
+    "style": "suit",
+    "ageGroups": [
+      "2-3 Yrs",
+      "3-4 Yrs",
+      "4-5 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Pathani Kurta Pajama",
+    "description": "Pathani Kurta Pajama, soft cotton fabric ",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793260644/rr9cdejthedzu9vpgjvj.jpg",
+    "createdAt": "2026-10-29 08:02:13.623",
+    "updatedAt": "2026-11-13 06:23:10.682",
+    "ageGroup": "0-1 Yrs",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Casual",
+    "ageGroups": [
+      "0-1 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Boys Brown & Beige Checkered Shirt with Denim Jogger Set",
+    "description": "Boys Stylish 2-Piece Western Wear Set\n\nGive your little boy a smart and trendy look with this stylish 2-piece outfit. Featuring a brown and beige checkered full-sleeve shirt with stylish chest pockets and comfortable dark blue denim jogger jeans.\n\nFeatures:\n\n- Shirt Color: Brown, Beige & Black\n- Pattern: Big Checkered / Plaid\n- Shirt Style: Full Sleeve Button-Down\n- Pockets: Dual Front Flap Pockets\n- Bottom: Dark Blue Denim Jogger Jeans\n- Waist: Elasticated Waistband\n- Style: Trendy Western Casual Wear\n- Occasion: Daily Wear, Parties & Outings",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794728104/jxnktmvdhceblp4dhyke.jpg",
+    "createdAt": "2026-10-30 10:47:40.36",
+    "updatedAt": "2026-11-15 07:35:08.114",
+    "ageGroup": "7-8 Yrs",
+    "category": "Boys",
+    "stock": 10,
+    "style": "PANT SHIRTS",
+    "ageGroups": [
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Mustard Yellow Heavy Embroidered Sharara Suit Set For Girls ",
+    "description": "2. Pattern:\nHeavy Zari Embroidery\nSequin & Mirror Work\nFlared Sharara Pattern\nPleated Peplum Kurti\nMatching Dupatta\nBeautiful Mustard Yellow Girls Sharara Suit Set featuring a heavily embroidered sleeveless peplum kurti with elegant golden zari and sequin work. Paired with stylish flared sharara pants and a matching soft dupatta. Perfect for weddings, festive occasions, parties and traditional celebrations.\nColor: Mustard Yellow\nPattern: Heavy Embroidered\nStyle: Peplum Kurti with Sharara\nWork: Zari, Sequin & Mirror Work\nOccasion: Party Wear / Festive Wear / Wedding Wear",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793525338/b2kzxzobwfa3ebt7ub2h.png",
+    "createdAt": "2026-11-01 08:52:45.537",
+    "updatedAt": "2026-11-01 09:30:13.553",
+    "ageGroup": "3-4 Yrs, 4-5 Yrs, 5-6 Yrs",
+    "category": "Girls",
+    "stock": 1,
+    "style": "suit",
+    "ageGroups": [
+      "3-4 Yrs",
+      "4-5 Yrs",
+      "5-6 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Top bottom",
+    "description": "white Jacket with pant\nsoft woolen fabric",
+    "price": 1299,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793095703/dqiucz70o3pa2l1uvbs1.jpg",
+    "createdAt": "2026-10-27 10:10:35.067",
+    "updatedAt": "2026-11-13 06:37:30.525",
+    "ageGroup": "6-12 Months, 1-2 Yrs",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Casual",
+    "ageGroups": [
+      "6-12 Months",
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Kurta-Pajama with Nehru jacket (Waistcoat) ",
+    "description": "Kurta \\ Sky-blue-Collar Kurta \nJacket / Light blue /cream colour ki floral emroidery wali sleeveless Nehru jacket (Bandi)\nPajama / matching sky-blue pajama ",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793266047/x3tua5rpzv4cffm4nhq9.jpg",
+    "createdAt": "2026-10-29 09:41:28.681",
+    "updatedAt": "2026-11-13 06:24:22.653",
+    "ageGroup": "2-3 Yrs, 3-4 Yrs, 4-5 Yrs, 5-6 Yrs",
+    "category": "Boys",
+    "stock": 5,
+    "style": "kurta payjama",
+    "ageGroups": [
+      "2-3 Yrs",
+      "3-4 Yrs",
+      "4-5 Yrs",
+      "5-6 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Boys Premium Cream Diamond Pattern Embroidered Kurta Pajama Set",
+    "description": "Boys Premium Traditional Kurta Pajama Set\n\nMake your little boy look elegant and charming with this beautiful cream-colored kurta pajama set. Featuring an attractive diamond pattern embroidery, stylish shirt collar, designer button placket and full sleeves. Paired with comfortable white pajama pants for a classy traditional look.\n\nFeatures:\n\n- Color: Cream / Off White\n- Pattern: Diamond Embroidered Design\n- Kurta Style: Straight Fit\n- Neck: Shirt Collar\n- Sleeves: Full Sleeves\n- Bottom: White Pajama\n- Style: Traditional Ethnic Wear\n- Occasion: Festivals, Weddings, Parties & Family Functions",
+    "price": 1299,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793358815/i4n2nzhtyuyq4n8x0pvy.png",
+    "createdAt": "2026-10-30 11:16:38.073",
+    "updatedAt": "2026-11-14 11:46:17.04",
+    "ageGroup": "1-2 Yrs, 2-3 Yrs",
+    "category": "Boys",
+    "stock": 2,
+    "style": "PANT SHIRTS",
+    "ageGroups": [
+      "1-2 Yrs",
+      "2-3 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Navy Blue Heavy Embroidered Kurti with Dhoti Salwar Set for Girls",
+    "description": "Floral Embroidery Work\nGolden Thread Work\nAnarkali Style Short Kurti\nDhoti Salwar Pattern\nNet Dupatta with Tassels\nShort Sleeve Design\nBeautiful Navy Blue Girls Ethnic Wear Set featuring a stylish embroidered kurti with elegant floral thread work and golden detailing. Paired with a trendy dhoti-style salwar and a matching net dupatta with beautiful tassel detailing. Perfect for weddings, festivals, birthday parties and special occasions.\n\nColor: Navy Blue\nPattern: Floral Embroidered\nStyle: Kurti with Dhoti Salwar\nWork: Golden Thread & Floral Embroidery\nDupatta: Net Dupatta with Tassels\nOccasion: Party Wear / Festive Wear / Wedding Wear",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793523216/b2n9mzbkh1heflgchtgg.jpg",
+    "createdAt": "2026-11-01 09:00:21.379",
+    "updatedAt": "2026-11-01 09:04:51.728",
+    "ageGroup": "2-3 Yrs, 3-4 Yrs, 4-5 Yrs, 5-6 Yrs, 6-7 Yrs, 7-8 Yrs",
+    "category": "Girls",
+    "stock": 5,
+    "style": "suit",
+    "ageGroups": [
+      "2-3 Yrs",
+      "3-4 Yrs",
+      "4-5 Yrs",
+      "5-6 Yrs",
+      "6-7 Yrs",
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Turquoise Blue Floral Embroidered Kurti with Palazzo Set for Girls",
+    "description": "Floral Embroidery Work\nSleeveless Round Neck Design\nFlared Anarkali Style Kurti\nWide-Leg Palazzo Pants\nEmbroidered Border Detailing\nPink & White Thread Work\nBeautiful Turquoise Blue Girls Ethnic Wear Set featuring a stylish sleeveless flared kurti with elegant floral embroidery and beautiful pink and white detailing. Paired with matching wide-leg palazzo pants featuring delicate embroidered motifs and designer border work. Perfect for festive occasions, birthday parties, family functions and celebrations.\n\nColor: Turquoise Blue\nPattern: Floral Embroidered\nStyle: Sleeveless Kurti with Palazzo\nWork: Thread Embroidery\nBottom Style: Wide-Leg Palazzo\nOccasion: Party Wear / Festive Wear / Ethnic Wear\nGirls Ethnic Wear – Palazzo Suit Set\n5. Style: Traditional Indo-Western Wear ✨",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793525566/co2q8rjutvc98sizzj5e.jpg",
+    "createdAt": "2026-11-01 09:41:32.475",
+    "updatedAt": "2026-11-01 09:41:32.475",
+    "ageGroup": "5-6 Yrs, 6-7 Yrs, 7-8 Yrs",
+    "category": "Girls",
+    "stock": 5,
+    "style": "suit",
+    "ageGroups": [
+      "5-6 Yrs",
+      "6-7 Yrs",
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Baby Pink Heavy Embroidered Peplum Kurti with Layered Sharara Set",
+    "description": "Heavy Sequin & Embroidery Work\nSleeveless V-Neck Design\nLayered Peplum Style Kurti\nMulti-Layer Flared Sharara Pants\nMatching Soft Net Dupatta\nDecorative Bead Tassel Work\nBeautiful Baby Pink Girls Party Wear Sharara Set featuring a stylish sleeveless embroidered kurti with elegant sequin and thread work. Designed with a beautiful layered peplum silhouette and paired with multi-layer flared sharara pants. Comes with a matching soft net dupatta and decorative bead tassels for an adorable traditional look. Perfect for weddings, birthday parties, festive occasions and family celebrations.\n\nColor: Baby Pink\nPattern: Heavy Embroidered\nStyle: Layered Peplum Kurti with Sharara\nWork: Sequin & Thread Embroidery\nBottom Style: Multi-Layer Flared Sharara\nDupatta: Matching Net Dupatta\nOccasion: Party Wear / Wedding Wear / Festive Wear Category: Girls Ethnic Wear – Sharara Set\n5. Style: Traditional Indo-Western Party Wear ✨",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793526325/b8ptwhyeaauaqjyu3tij.jpg",
+    "createdAt": "2026-11-01 09:52:35.302",
+    "updatedAt": "2026-11-01 09:52:35.302",
+    "ageGroup": "1-4 Yrs, 1-6 Yrs, 2-3 Yrs, 3-4 Yrs, 4-5 Yrs, 5-6 Yrs",
+    "category": "Girls",
+    "stock": 5,
+    "style": "suit",
+    "ageGroups": [
+      "1-4 Yrs",
+      "1-6 Yrs",
+      "2-3 Yrs",
+      "3-4 Yrs",
+      "4-5 Yrs",
+      "5-6 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Boys Grey Denim Jacket with Cargo Jeans Set",
+    "description": "Jacket: Grey Washed Denim Jacket\nJacket Pattern: Button-Down, Front Flap Pockets\nT-Shirt: Black Graphic Printed T-Shirt\nBottom: Grey Denim Cargo Jeans\nJeans Pattern: Side Cargo Pockets, Elasticated Ankle\nStyle: Casual Western Wear\nBoys Grey Denim Jacket & Cargo Jeans Set\n\nGive your little boy a stylish look with this trendy 3-piece outfit. Featuring a grey washed denim jacket with front button closure and flap pockets, a stylish graphic printed T-shirt, and matching cargo denim jeans with side pockets and elasticated ankle cuffs.\n\nStyle: Western Casual Wear\nPattern: Washed Denim & Cargo\nColor: Grey & Black\nOccasion: Casual Wear, Party Wear & Outings\nSet Includes: Denim Jacket, T-Shirt & Cargo Jeans",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793534194/kvmkji9uzsud83zp6gzq.jpg",
+    "createdAt": "2026-11-01 12:00:48.989",
+    "updatedAt": "2026-11-01 12:00:48.989",
+    "ageGroup": "2-3 Yrs, 3-4 Yrs, 4-5 Yrs, 5-6 Yrs",
+    "category": "Boys",
+    "stock": 5,
+    "style": "jeans tishirt",
+    "ageGroups": [
+      "2-3 Yrs",
+      "3-4 Yrs",
+      "4-5 Yrs",
+      "5-6 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Boys Grey & Olive Green Denim Jacket Set",
+    "description": "Jacket: Grey Washed Denim Jacket\nJacket Pattern: Dual-Tone Ombre / Gradient Wash\nSleeves: Folded Cuff Sleeves\nPockets: Front Flap Pockets\nT-Shirt: White Simpson Graphic Printed T-Shirt\nBottom: Grey Denim Cargo Jeans\nJeans Pattern: Side Cargo Pocket Style\nStyle: Trendy Western Casual Wear\nBoys Grey & Olive Green Denim Jacket Set\n\nMake your little boy look stylish with this trendy denim outfit. Featuring a grey washed denim jacket with olive green gradient detailing, folded sleeves and stylish front pockets. Paired with a white graphic printed T-shirt and matching grey denim cargo jeans.\n\n- Color: Grey & Olive Green\n- Pattern: Ombre Washed Denim\n- Style: Western Casual Wear\n- Bottom: Cargo Jeans\n- Set Includes: Denim Jacket, Printed T-Shirt & Cargo Jeans\n- Occasion: Party Wear, Casual Wear & Outings",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793534510/td00xs4ooqey4mpfncng.jpg",
+    "createdAt": "2026-11-01 12:03:55.944",
+    "updatedAt": "2026-11-01 12:03:55.944",
+    "ageGroup": "1-2 Yrs, 2-3 Yrs, 3-4 Yrs, 4-5 Yrs",
+    "category": "Boys",
+    "stock": 5,
+    "style": "jeans tishirt",
+    "ageGroups": [
+      "1-2 Yrs",
+      "2-3 Yrs",
+      "3-4 Yrs",
+      "4-5 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Boys Brown Denim Jacket & Jogger Jeans Set",
+    "description": "Jacket: Dark Brown Denim Jacket\nPattern: Washed Denim with Front Flap Pockets\nT-Shirt: Cream Graphic Printed T-Shirt\nBottom: Matching Brown Denim Jeans\nJeans Pattern: Jogger Fit with Elasticated Ankle Cuffs\nStyle: Western Casual / Streetwear Boys Brown Denim Jacket & Jogger Set\n\nGive your little boy a trendy and stylish look with this premium brown denim outfit. Featuring a stylish washed denim jacket with button closure, front flap pockets and decorative badge detailing. Paired with a cream graphic printed T-shirt and matching brown denim jogger pants with elasticated ankle cuffs.\n\n- Color: Dark Brown & Cream\n- Pattern: Washed Denim\n- Fit: Regular Fit Joggers\n- Style: Western Streetwear\n- Set Includes: Denim Jacket, Printed T-Shirt & Jogger Pants\n- Occasion: Casual Wear, Party Wear & Outings",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793534654/ya1iyjbskwzabpxdxwnl.jpg",
+    "createdAt": "2026-11-01 12:07:19.738",
+    "updatedAt": "2026-11-01 12:07:19.738",
+    "ageGroup": "1-2 Yrs, 1-4 Yrs, 1-6 Yrs, 2-3 Yrs, 3-4 Yrs",
+    "category": "Boys",
+    "stock": 5,
+    "style": "jeans tishirt",
+    "ageGroups": [
+      "1-2 Yrs",
+      "1-4 Yrs",
+      "1-6 Yrs",
+      "2-3 Yrs",
+      "3-4 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Girls Dusty Pink Woollen Winter Coat",
+    "description": "A beautiful and trendy dusty pink winter coat for girls, featuring a stylish shawl lapel collar, three-button front closure, full sleeves, and elegant side pockets. Made with soft and warm fabric to provide comfort while giving your little princess a fashionable and sophisticated look.\n\nPerfect For: Winter outings, birthday parties, family functions and casual wear.\n\nStyle: Premium & Trendy Winter Collection. 🌸",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793619281/qtmltdjekajpqt6bk10e.jpg",
+    "createdAt": "2026-11-02 11:36:04.198",
+    "updatedAt": "2026-11-02 11:48:20.614",
+    "ageGroup": "7-8 Yrs",
+    "category": "Girls",
+    "stock": 1,
+    "style": "Party Wear",
+    "ageGroups": [
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Girls",
+      "Winter Court & Jacket"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Girls Black Velvet Winter Coat",
+    "description": "A stylish and elegant black winter coat for girls, featuring a beautiful round lapel collar, three-button front closure, full sleeves, and a soft velvet-textured finish. Its classy design offers a perfect combination of warmth, comfort and fashion.\n\nPerfect For: Winter outings, parties, family functions and daily wear.\n\nStyle: Premium & Classy Winter Collection. 🖤",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793619009/vbmoh5tlkjucuhcbqgsz.jpg",
+    "createdAt": "2026-11-02 11:30:59.885",
+    "updatedAt": "2026-11-02 11:49:19.403",
+    "ageGroup": "7-8 Yrs",
+    "category": "Girls",
+    "stock": 1,
+    "style": "Party Wear",
+    "ageGroups": [
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Girls",
+      "Winter Court & Jacket"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Girls Camel Brown Woollen Winter Coat",
+    "description": "A stylish and elegant camel brown winter coat for girls, featuring a beautiful double-breasted design, wide lapel collar, three-button front closure, full sleeves, and side pockets. Its soft, warm fabric provides comfort and a sophisticated look throughout the winter season.\n\nPerfect For: Winter outings, birthday parties, family functions and casual wear.\n\nStyle: Premium & Classy Winter Collection. 🤎",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793619175/gx4vdhc2tzc17jgly3lq.jpg",
+    "createdAt": "2026-11-02 11:34:19.085",
+    "updatedAt": "2026-11-02 11:48:43.432",
+    "ageGroup": "7-8 Yrs",
+    "category": "Girls",
+    "stock": 1,
+    "style": "Party Wear",
+    "ageGroups": [
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Girls",
+      "Winter Court & Jacket"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Girls Baby Pink Woollen Winter Coat",
+    "description": "A beautiful and elegant baby pink winter coat for girls, featuring a stylish shawl collar, three-button front closure, full sleeves, and convenient side pockets. Its soft and warm fabric provides comfort while giving your little princess a classy and fashionable look.\n\nPerfect For: Winter outings, birthday parties, family functions and casual wear.\n\nStyle: Premium & Elegant Winter Collection. 🌸",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793619069/dlthycb6etel0ayeanmx.jpg",
+    "createdAt": "2026-11-02 11:32:47.535",
+    "updatedAt": "2026-11-02 11:48:58.535",
+    "ageGroup": "7-8 Yrs",
+    "category": "Girls",
+    "stock": 1,
+    "style": "Party Wear",
+    "ageGroups": [
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Girls",
+      "Winter Court & Jacket"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Girls Brown Woollen Winter Coat",
+    "description": "A classy and elegant brown winter coat for girls, featuring a stylish wide lapel collar, three-button front closure, full sleeves, and side pockets. Crafted for a smart and sophisticated look while keeping your little princess warm and comfortable during the winter season.\n\nPerfect For: Winter outings, parties, family functions and casual wear.\n\nStyle: Premium & Elegant Winter Collection. 🤎",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793618859/vko2g3nsqu1srroclwfi.jpg",
+    "createdAt": "2026-11-02 11:29:20.679",
+    "updatedAt": "2026-11-02 11:49:33.814",
+    "ageGroup": "7-8 Yrs",
+    "category": "Girls",
+    "stock": 1,
+    "style": "Party Wear",
+    "ageGroups": [
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Girls",
+      "Winter Court & Jacket"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Girls Pink Winter Woollen Coat",
+    "description": "A stylish and elegant pink winter coat for girls, featuring a beautiful collar design, front button closure, full sleeves, and decorative pocket detailing. Made with soft, warm fabric to keep your little princess comfortable and fashionable during winter.\n\nPerfect For: Winter outings, parties, family functions and casual wear.\n\nStyle: Premium & Trendy Winter Collection. 💗",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793618354/vvwilhcnz3h74vcoqlgv.jpg",
+    "createdAt": "2026-11-02 11:20:28.52",
+    "updatedAt": "2026-11-02 11:49:45.77",
+    "ageGroup": "7-8 Yrs",
+    "category": "Girls",
+    "stock": 1,
+    "style": "Party Wear",
+    "ageGroups": [
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Girls",
+      "Winter Court & Jacket"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Girls Mint Green Woollen Winter Coat",
+    "description": "A beautiful and trendy mint green winter coat for girls, featuring a stylish wide lapel collar, double-breasted six-button closure, full sleeves, and elegant side pockets. Crafted with soft and warm fabric to keep your little princess cosy and comfortable while giving her a smart and sophisticated look.\n\nPerfect For: Winter outings, birthday parties, family functions and casual wear.\n\nStyle: Premium & Elegant Winter Collection. 💚",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793619370/ylorjiuauebnweahaefa.jpg",
+    "createdAt": "2026-11-02 11:37:35.188",
+    "updatedAt": "2026-11-03 11:42:57.284",
+    "ageGroup": "7-8 Yrs",
+    "category": "Winter Court & Jacket",
+    "stock": 1,
+    "style": "Party Wear",
+    "ageGroups": [
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Winter Court & Jacket"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Baby Girl Pink Fur Sleeveless Jacket with Bow",
+    "description": "A cute and stylish baby girl outfit featuring a soft pink fur sleeveless jacket with a beautiful black-and-white polka dot bow, elegant button detailing, and a fluffy collar. Perfect for winter wear, birthday parties, outings, and special occasions.\n\nShort Instagram Caption:\n💕 Adorable Style for Your Little Princess!\n✨ Soft • Stylish • Premium Quality • Winter Collection",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793702294/abqaiany0jrpbwn9krid.jpg",
+    "createdAt": "2026-11-03 10:42:22.46",
+    "updatedAt": "2026-11-03 11:43:06.566",
+    "ageGroup": "1-4 Yrs, 1-6 Yrs",
+    "category": "Winter Court & Jacket",
+    "stock": 5,
+    "style": "Jacket",
+    "ageGroups": [
+      "1-4 Yrs",
+      "1-6 Yrs"
+    ],
+    "categories": [
+      "Winter Court & Jacket"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Hooded Puffer Jacket",
+    "description": "A stylish and elegant cream-coloured winter jacket for baby girls, featuring a soft padded design, cozy fur-trimmed hood, front zipper closure, and beautiful quilted detailing. Perfect for keeping your little princess warm and comfortable during chilly winter days.\n\n🤍 Winter Fashion for Your Little Princess! \n✨ Premium Quality | Soft & Warm | Stylish Look",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793702557/fnguwsku0k6qhzbtcdme.jpg",
+    "createdAt": "2026-11-03 10:45:06.723",
+    "updatedAt": "2026-11-03 11:46:18.065",
+    "ageGroup": "1-4 Yrs",
+    "category": "Winter Court & Jacket",
+    "stock": 5,
+    "style": "girls winter coat and jacket",
+    "ageGroups": [
+      "1-4 Yrs"
+    ],
+    "categories": [
+      "Winter Court & Jacket"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "woollen Dress",
+    "description": "woolen soft fabric",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793949755/m3sawoixilsoistfkuox.jpg",
+    "createdAt": "2026-11-06 07:25:02.178",
+    "updatedAt": "2026-11-13 06:44:38.749",
+    "ageGroup": "0-6 Months",
+    "category": "Baby wear",
+    "stock": 5,
+    "style": "Casual",
+    "ageGroups": [
+      "0-6 Months"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Woollen Dress",
+    "description": "Soft Fabric ",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793950524/bca5nzqt6xtoxlg4gbya.jpg",
+    "createdAt": "2026-11-06 07:36:43.172",
+    "updatedAt": "2026-11-12 10:48:48.523",
+    "ageGroup": "0-6 Months",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Casual",
+    "ageGroups": [
+      "0-6 Months"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Woollen Dress",
+    "description": "Soft Fabric",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793950284/wmmfgghj6tsbmrovkeeg.jpg",
+    "createdAt": "2026-11-06 07:32:01.777",
+    "updatedAt": "2026-11-13 06:19:44.466",
+    "ageGroup": "0-6 Months",
+    "category": "Baby wear",
+    "stock": 5,
+    "style": "Casual",
+    "ageGroups": [
+      "0-6 Months"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Woollen Fabric",
+    "description": "Soft Fabric",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793949981/oiwzzkh0ucbxsgod8wva.jpg",
+    "createdAt": "2026-11-06 07:27:35.427",
+    "updatedAt": "2026-11-13 06:20:14.868",
+    "ageGroup": "0-6 Months",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Casual",
+    "ageGroups": [
+      "0-6 Months"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Top bottom set",
+    "description": "complete set with cap and socks",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793950791/cswukgp5bldj3vjzlpab.jpg",
+    "createdAt": "2026-11-06 07:41:03.211",
+    "updatedAt": "2026-11-06 07:43:28.822",
+    "ageGroup": "0-6 Months",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Casual",
+    "ageGroups": [
+      "0-6 Months"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Woollen Dress",
+    "description": "Soft Fabric",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793950680/eh9l0weqkplnfqjwdkpd.jpg",
+    "createdAt": "2026-11-06 07:38:45.519",
+    "updatedAt": "2026-11-12 10:48:13.944",
+    "ageGroup": "0-6 Months",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Casual",
+    "ageGroups": [
+      "0-6 Months"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "woolen Dress",
+    "description": "soft Fabric",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793950736/lae3adi79h40zb1mgfpv.jpg",
+    "createdAt": "2026-11-06 07:39:42.337",
+    "updatedAt": "2026-11-06 07:44:01.057",
+    "ageGroup": "0-6 Months",
+    "category": "Baby wear",
+    "stock": 5,
+    "style": "Casual",
+    "ageGroups": [
+      "0-6 Months"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "woolen dress",
+    "description": "soft woolen fabric",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794479718/howmscqrrbfvxj27be4i.jpg",
+    "createdAt": "2026-11-12 10:37:29.057",
+    "updatedAt": "2026-11-12 10:37:29.057",
+    "ageGroup": "1-2 Yrs",
+    "category": "Baby wear",
+    "stock": 5,
+    "style": "Casual",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Pink woolen Dress",
+    "description": "4 piece Dress, soft fabric",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794479861/ynegtluyitpojcfxqvjg.jpg",
+    "createdAt": "2026-11-12 10:40:14.915",
+    "updatedAt": "2026-11-12 10:40:14.915",
+    "ageGroup": "1-2 Yrs",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Casual",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Baby Dress",
+    "description": "peach color Dress, soft woolen Fabric",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794480033/tyur6k4cmljgcidfwk3p.jpg",
+    "createdAt": "2026-11-12 10:43:19.653",
+    "updatedAt": "2026-11-12 10:43:19.653",
+    "ageGroup": "1-2 Yrs",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Casual",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Top Bottom Dress",
+    "description": "Baby Pink Dress",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794480212/kfoc90cb630tmkbxhuig.jpg",
+    "createdAt": "2026-11-12 10:44:38.16",
+    "updatedAt": "2026-11-12 10:44:38.16",
+    "ageGroup": "1-2 Yrs",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Casual",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Top Bottom",
+    "description": "wollen Dress Top Bottom Set",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794480289/jrjvxtslhbjihe2axsvz.jpg",
+    "createdAt": "2026-11-12 10:46:16.179",
+    "updatedAt": "2026-11-12 10:46:16.179",
+    "ageGroup": "1-2 Yrs",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Regular",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "co-ord set",
+    "description": "woolen co-ord set, soft Fabric",
+    "price": 999,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794480391/ocsrteawgv0vangugeh1.jpg",
+    "createdAt": "2026-11-12 10:47:48.45",
+    "updatedAt": "2026-11-12 10:47:48.45",
+    "ageGroup": "1-2 Yrs",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Regular",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Woollen Dress",
+    "description": "Soft Fabric",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793950407/yjaz0debudsxvdmvg6yo.jpg",
+    "createdAt": "2026-11-06 07:34:55.338",
+    "updatedAt": "2026-11-12 10:49:23.296",
+    "ageGroup": "0-6 Months",
+    "category": "Baby wear",
+    "stock": 2,
+    "style": "Casual",
+    "ageGroups": [
+      "0-6 Months"
+    ],
+    "categories": [
+      "Baby wear"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Boys 3-Piece Check Shirt,Printed T-Shirt & Denim Jeans Set ",
+    "description": "Boys Stylish 3-Piece Western Wear Set\n\nMake your little boy look stylish with this trendy 3-piece outfit. It includes a navy blue and brown checkered full-sleeve shirt, a printed white round-neck T-shirt, and comfortable blue denim jeans with a matching belt.\n\nFeatures:\n\n- Shirt: Navy Blue & Brown Checkered Pattern\n- Inner: White Printed T-Shirt\n- Bottom: Blue Denim Jeans\n- Style: Western Casual Wear\n- Fit: Comfortable Fit\n- Occasion: Casual Wear, Parties & Outings",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793356041/dcdot5cozljriv1nf84s.jpg",
+    "createdAt": "2026-10-30 10:39:30.669",
+    "updatedAt": "2026-11-13 06:26:03.882",
+    "ageGroup": "1-2 Yrs, 1-4 Yrs, 1-6 Yrs, 2-3 Yrs, 3-4 Yrs, 4-5 Yrs, 5-6 Yrs, 6-7 Yrs, 7-8 Yrs",
+    "category": "Boys",
+    "stock": 10,
+    "style": "PANT SHIRTS",
+    "ageGroups": [
+      "1-2 Yrs",
+      "1-4 Yrs",
+      "1-6 Yrs",
+      "2-3 Yrs",
+      "3-4 Yrs",
+      "4-5 Yrs",
+      "5-6 Yrs",
+      "6-7 Yrs",
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Pant shirt",
+    "description": "3 piece shirt, jeans , Half T shirt ",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793256450/qwxr0csrvsocn8jae1tv.jpg",
+    "createdAt": "2026-10-29 06:49:14.129",
+    "updatedAt": "2026-11-13 06:27:04.929",
+    "ageGroup": "1-2 Yrs, 2-3 Yrs, 3-4 Yrs, 4-5 Yrs, 5-6 Yrs, 6-7 Yrs, 7-8 Yrs",
+    "category": "Boys",
+    "stock": 2,
+    "style": "PANT SHIRTS",
+    "ageGroups": [
+      "1-2 Yrs",
+      "2-3 Yrs",
+      "3-4 Yrs",
+      "4-5 Yrs",
+      "5-6 Yrs",
+      "6-7 Yrs",
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Dress",
+    "description": "woolen Dress ,soft fabric ",
+    "price": 999,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793098673/ze8llcswxbgr5rwuuvc8.jpg",
+    "createdAt": "2026-10-27 10:58:55.752",
+    "updatedAt": "2026-11-13 06:35:53.023",
+    "ageGroup": "1-6 Yrs, 2-3 Yrs, 3-4 Yrs, 4-5 Yrs",
+    "category": "Girls",
+    "stock": 2,
+    "style": "woollen Dress",
+    "ageGroups": [
+      "1-6 Yrs",
+      "2-3 Yrs",
+      "3-4 Yrs",
+      "4-5 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Blue Printed Frock for Girls",
+    "description": "Beautiful sky blue printed frock for girls featuring an all-over designer pattern, stylish ruffled neckline, front button detailing, full sleeves with ribbed cuffs, and a comfortable flared skirt. Perfect for birthday parties, family functions, festive occasions, and casual outings.\nPattern: All-Over Geometric Print\nColor: Sky Blue\nStyle: Party Wear / Western Frock\nSleeves: Full Sleeves\nFit: Flared Fit\nAge Group: Kids Girls 👧",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794644844/qyfvbdsmli0m2txynhfd.jpg",
+    "createdAt": "2026-11-14 08:45:33.525",
+    "updatedAt": "2026-11-14 08:45:33.525",
+    "ageGroup": "1-6 Yrs, 2-3 Yrs, 3-4 Yrs",
+    "category": "Girls",
+    "stock": 5,
+    "style": "woollen Dress",
+    "ageGroups": [
+      "1-6 Yrs",
+      "2-3 Yrs",
+      "3-4 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Dusty Brown Winter Tracksuit Set for Girls",
+    "description": "Stylish dusty brown winter tracksuit for girls featuring a full-sleeve hooded jacket with front zipper closure, soft fleece lining, adjustable drawstrings, and matching jogger pants with white side stripes. Comes with a matching sling bag for a trendy and sporty look. Perfect for winter wear, casual outings, and daily use.\nColor: Dusty Brown\nPattern: Solid with Contrast Side Stripes\nStyle: Western / Sportswear\nSet: Hoodie Jacket + Jogger Pant + Sling Bag\nFabric: Winter Fleece\nFit: Regular Fit\nOccasion: Casual Wear / Winter Wear",
+    "price": 1749,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794646158/ndcy2dwlonag20lvcjq3.jpg",
+    "createdAt": "2026-11-14 08:51:24.311",
+    "updatedAt": "2026-11-14 08:51:24.311",
+    "ageGroup": "5-6 Yrs, 6-7 Yrs",
+    "category": "Girls",
+    "stock": 2,
+    "style": "Regular",
+    "ageGroups": [
+      "5-6 Yrs",
+      "6-7 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Olive Green Velvet Winter Tracksuit for Girls",
+    "description": "Trendy olive green winter tracksuit featuring a full-sleeve hooded jacket with front zipper closure, stylish black drawstrings, two front pockets, and matching jogger pants. Made with soft ribbed velvet fabric for a warm and comfortable feel. Perfect for winter outings, casual wear, and everyday styling.\nColor: Olive Green\nPattern: Solid / Textured Ribbed\nStyle: Western Sportswear\nSet: Hooded Jacket + Jogger Pant\nFabric: Velvet / Ribbed Winter Fabric\nSleeves: Full Sleeves\nFit: Regular Fit\nOccasion: Casual Wear / Winter Wear",
+    "price": 1399,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794646622/ocv6ftomqf2ho9adsb6i.jpg",
+    "createdAt": "2026-11-14 08:58:39.899",
+    "updatedAt": "2026-11-14 08:58:39.899",
+    "ageGroup": "5-6 Yrs, 6-7 Yrs",
+    "category": "Girls",
+    "stock": 2,
+    "style": "Regular",
+    "ageGroups": [
+      "5-6 Yrs",
+      "6-7 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Pink Printed Winter Tracksuit Set for Girls",
+    "description": "Trendy pink winter tracksuit for girls featuring a stylish hooded jacket with front zipper closure, colourful graphic prints, full sleeves, and matching jogger pants with attractive typography detailing. Made for a comfortable and fashionable winter look. Perfect for casual outings, travel, school wear, and everyday use.\nColor: Baby Pink\nPattern: Multicolor Graphic Print\nStyle: Western / Casual Wear\nSet: Hooded Jacket + Jogger Pant\nSleeves: Full Sleeves\nFit: Regular Fit\nOccasion: Winter Wear / Daily Wear 🎀",
+    "price": 1949,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794646783/hu3gqbdwllqptpd4y9r8.jpg",
+    "createdAt": "2026-11-14 09:03:02.063",
+    "updatedAt": "2026-11-14 09:03:02.063",
+    "ageGroup": "6-7 Yrs, 7-8 Yrs",
+    "category": "Girls",
+    "stock": 2,
+    "style": "woollen Dress",
+    "ageGroups": [
+      "6-7 Yrs",
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "White Ribbed High-Neck Winter Top with Black Jeans",
+    "description": "Elegant white winter top for girls featuring a stylish high-neck design, front button detailing, beautiful vertical ribbed texture, and full sleeves. Paired with classic black slim-fit jeans for a smart and comfortable look. Perfect for casual outings, family gatherings, and everyday winter styling.\nTop Color: Off White\nBottom Color: Black\nPattern: Solid Ribbed Texture\nNeck: High Neck\nSleeves: Full Sleeves\nBottom Wear: Black Denim Jeans\nStyle: Western Casual Wear\nOccasion: Daily Wear / Winter Wear",
+    "price": 999,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794647065/urxomoixpc0wzh908cnz.jpg",
+    "createdAt": "2026-11-14 09:05:46.791",
+    "updatedAt": "2026-11-14 09:05:46.791",
+    "ageGroup": "4-5 Yrs, 5-6 Yrs, 6-7 Yrs, 7-8 Yrs",
+    "category": "Girls",
+    "stock": 5,
+    "style": "woollen Dress",
+    "ageGroups": [
+      "4-5 Yrs",
+      "5-6 Yrs",
+      "6-7 Yrs",
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Pink Cable Knit Cardigan with Cream Palazzo Pants",
+    "description": "Beautiful winter wear set for girls featuring a stylish peach pink cable-knit cardigan with front button closure, elegant cream Peter Pan collar, cute decorative flower detailing, and full sleeves with frill cuffs. Paired with matching cream ribbed flared pants for a cute and elegant look. Perfect for winter outings, birthday parties, and family gatherings.\nCardigan Color: Peach Pink\nBottom Color: Cream\nPattern: Cable Knit / Ribbed\nNeck: Round Neck with Detachable-Look Collar\nSleeves: Full Sleeves\nSet: Knitted Cardigan + Flared Pants\nStyle: Korean Fashion / Winter Wear\nOccasion: Casual Wear / Party Wear 🎀",
+    "price": 1999,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794647204/ygimjbaeqknelczx0hto.jpg",
+    "createdAt": "2026-11-14 09:08:33.829",
+    "updatedAt": "2026-11-14 09:08:33.829",
+    "ageGroup": "5-6 Yrs, 6-7 Yrs, 7-8 Yrs",
+    "category": "Girls",
+    "stock": 4,
+    "style": "woollen Dress",
+    "ageGroups": [
+      "5-6 Yrs",
+      "6-7 Yrs",
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Pink Printed Hooded Sweatshirt with Black Jeans",
+    "description": "Stylish baby pink winter hoodie for girls featuring a beautiful cream contrast hood, full sleeves with contrast side panels, attractive multicolour graphic print with smiley and heart designs, and trendy slogan detailing. Paired with classic black jeans for a fashionable and comfortable winter look.\nTop Color: Baby Pink\nHood Color: Cream\nBottom Color: Black\nPattern: Graphic / Slogan Print\nNeck: Hooded Neck\nSleeves: Full Sleeves\nBottom Wear: Black Denim Jeans\nStyle: Western Casual Wear\nOccasion: Daily Wear / Winter Wear 🎀",
+    "price": 1699,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794647425/yqov4xgf14srip78k1pq.jpg",
+    "createdAt": "2026-11-14 09:13:01.368",
+    "updatedAt": "2026-11-14 09:13:01.368",
+    "ageGroup": "2-3 Yrs, 3-4 Yrs, 4-5 Yrs",
+    "category": "Girls",
+    "stock": 5,
+    "style": "Regular",
+    "ageGroups": [
+      "2-3 Yrs",
+      "3-4 Yrs",
+      "4-5 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 127,
+    "name": " Mustard Brown Knit Party Wear Frock for Girls",
+    "description": "Beautiful mustard brown winter frock for girls featuring an elegant diamond-pattern knitted bodice, stylish round neckline with black bead embellishment, cute front bow detailing, decorative black patch, and full sleeves. Designed with a beautiful gathered flared skirt for a classy and adorable look. Perfect for birthday parties, festive occasions, and family functions.\nColor: Mustard Brown\nPattern: Diamond Knit / Textured\nNeck: Round Neck\nSleeves: Full Sleeves\nStyle: Winter Party Wear\nFit: Flared Fit\nSpecial Details: Black Bead Work & Bow 🎀\nOccasion: Party Wear / Festive Wear",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794648438/u0gxhzs9y30nxgxdhwft.jpg",
+    "createdAt": "2026-11-14 09:30:16.322",
+    "updatedAt": "2026-11-14 09:30:16.322",
+    "ageGroup": "4-5 Yrs, 5-6 Yrs, 6-7 Yrs, 7-8 Yrs",
+    "category": "Girls",
+    "stock": 5,
+    "style": "Regular",
+    "ageGroups": [
+      "4-5 Yrs",
+      "5-6 Yrs",
+      "6-7 Yrs",
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Red & Cream Bow Design Winter Frock for Girls",
+    "description": "Beautiful red winter party wear frock for girls featuring an elegant sleeveless-style red bodice with cream full sleeves, stylish cream contrast detailing, an attractive oversized front bow, and a beautifully flared gathered skirt. Designed with a soft and comfortable winter fabric for a cute and classy look. Perfect for birthday parties, Christmas celebrations, festive occasions, and family functions.\nColor: Red & Cream\nPattern: Solid / Color Block\nNeck: Round Neck\nSleeves: Full Sleeves\nStyle: Winter Party Wear\nFit: Flared Fit\nSpecial Detail: Big Cream Bow 🎀\nOccasion: Party Wear / Festive Wear",
+    "price": 1399,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794648752/a3srxpdoxmo3uuyzpjgf.jpg",
+    "createdAt": "2026-11-14 09:33:49.939",
+    "updatedAt": "2026-11-14 09:33:49.939",
+    "ageGroup": "0-1 Yrs, 1-2 Yrs, 1-4 Yrs, 1-6 Yrs, 2-3 Yrs",
+    "category": "Girls",
+    "stock": 4,
+    "style": "Regular",
+    "ageGroups": [
+      "0-1 Yrs",
+      "1-2 Yrs",
+      "1-4 Yrs",
+      "1-6 Yrs",
+      "2-3 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Olive Green Hooded Winter Tracksuit Set for Girls",
+    "description": "Trendy olive green winter tracksuit for girls featuring a stylish hooded jacket with front zipper closure, adjustable drawstrings, white shoulder detailing, and matching jogger pants with contrast white side stripes. Comes with a matching mini backpack for a sporty and fashionable look. Perfect for winter outings, travel, casual wear, and everyday styling.\nColor: Olive Green\nPattern: Solid with Contrast Stripes\nNeck: Hooded Neck\nSleeves: Full Sleeves\nSet: Hooded Jacket + Jogger Pant + Mini Backpack\nStyle: Western Sportswear\nFit: Regular Fit\nOccasion: Winter Wear / Casual Wear",
+    "price": 1749,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794649382/c228cnhjrfaaxeaprkfy.jpg",
+    "createdAt": "2026-11-14 09:45:35.105",
+    "updatedAt": "2026-11-14 09:45:35.105",
+    "ageGroup": "5-6 Yrs, 6-7 Yrs",
+    "category": "Girls",
+    "stock": 2,
+    "style": "Regular",
+    "ageGroups": [
+      "5-6 Yrs",
+      "6-7 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Maroon Velvet Hooded Winter Tracksuit for Girls",
+    "description": "Stylish maroon winter tracksuit for girls featuring a full-sleeve hooded jacket with front zipper closure, two front pockets, ribbed cuffs, and elegant embroidered logo detailing. Paired with matching straight-fit pants featuring an elasticated waistband, drawstring, and side pockets. Made with soft corduroy velvet fabric for a warm and comfortable winter look.\nColor: Maroon / Wine\nPattern: Solid Ribbed Texture\nNeck: Hooded Neck\nSleeves: Full Sleeves\nSet: Hooded Jacket + Matching Pants\nFabric: Corduroy Velvet\nFit: Regular Fit\nOccasion: Winter Wear / Casual Wear",
+    "price": 1399,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794650610/oxlq2056ppusitcdkfpa.jpg",
+    "createdAt": "2026-11-14 10:04:40.881",
+    "updatedAt": "2026-11-14 10:05:09.348",
+    "ageGroup": "6-7 Yrs, 7-8 Yrs",
+    "category": "Girls",
+    "stock": 2,
+    "style": "Regular",
+    "ageGroups": [
+      "6-7 Yrs",
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Girls Peach Pink Printed Sweatshirt",
+    "description": "Stylish peach pink full-sleeve sweatshirt for girls featuring a cute Daisy Duck graphic print on the front. Made with soft and comfortable fabric, ribbed round neckline, cuffs and hem. Perfect for casual wear, outings and everyday winter styling.\nPattern: Cartoon Printed\nFabric: Soft Cotton Fleece\nNeck: Round Neck\nSleeves: Full Sleeves\nColour: Peach Pink",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794651008/rabf5nxxnhjttdohymph.jpg",
+    "createdAt": "2026-11-14 10:14:31.486",
+    "updatedAt": "2026-11-14 10:14:31.486",
+    "ageGroup": "6-7 Yrs, 7-8 Yrs",
+    "category": "Girls",
+    "stock": 5,
+    "style": "Regular",
+    "ageGroups": [
+      "6-7 Yrs",
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Girls"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Boys Mauve Pink Floral Printed Kurta Waistcoat Set",
+    "description": "Give your little one a stylish ethnic look with this beautiful 3-piece boys' kurta set. Featuring a solid mauve pink kurta and matching trousers paired with a cream floral printed Nehru jacket. Perfect for weddings, festivals, parties and special occasions.\nPattern: Floral Printed Waistcoat\nColour: Mauve Pink & Cream\nStyle: Indo-Western Ethnic Wear\nSet Includes: Kurta, Pajama & Jacket\nAge Group: 5 Years",
+    "price": 849,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794722933/kz2puvvlsn20agnmr9gx.jpg",
+    "createdAt": "2026-11-15 06:13:47.665",
+    "updatedAt": "2026-11-15 06:13:47.665",
+    "ageGroup": "7-8 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "kurta payjama",
+    "ageGroups": [
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Baby Boys Royal Cream Embroidered Kurta Dhoti Set",
+    "description": "Dress your little prince in this adorable traditional ethnic outfit. Featuring a beautiful cream kurta with an elegant embroidered jacket, matching dhoti pants with designer border detailing, and a stylish pearl necklace. Perfect for weddings, festivals, birthday parties and special occasions.\nColour: Cream / Off White\nPattern: Geometric Embroidered Print\nStyle: Traditional Ethnic Wear\nSet Includes: Kurta, Dhoti, Jacket & Necklace\nAge Group: 1 Year Boy",
+    "price": 1549,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794723254/uhrty007brq0na5kiaqq.jpg",
+    "createdAt": "2026-11-15 06:17:11.057",
+    "updatedAt": "2026-11-15 06:17:11.057",
+    "ageGroup": "0-1 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Dhoti kurta",
+    "ageGroups": [
+      "0-1 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Boys Peach Kurta Pajama with Printed Nehru Jacket",
+    "description": "Give your little boy a classy ethnic look with this beautiful peach kurta pajama set. Featuring a cream designer Nehru jacket with elegant orange floral motifs, stylish buttons and a matching pocket square. Perfect for weddings, festivals, birthday parties and special occasions.\nColour: Peach & Cream\nPattern: Floral Printed\nStyle: Indo-Western Ethnic Wear\nSet Includes: Kurta, Pajama & Jacket\nAge Group: 4 Years",
+    "price": 849,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794723458/ltis15yabibhetnhit24.jpg",
+    "createdAt": "2026-11-15 06:19:14.701",
+    "updatedAt": "2026-11-15 06:19:14.701",
+    "ageGroup": "3-4 Yrs, 7-8 Yrs",
+    "category": "Boys",
+    "stock": 2,
+    "style": "kurta payjama",
+    "ageGroups": [
+      "3-4 Yrs",
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Baby Boys White Embroidered Kurta Pajama Set",
+    "description": "Dress your little prince in this elegant white kurta pajama set. Featuring beautiful all-over embroidery, a stylish mandarin collar and premium button detailing. A perfect traditional outfit for weddings, festivals, birthday parties and special occasions.\nColour: White / Off White\nPattern: All-Over Embroidered\nStyle: Traditional Ethnic Wear\nSet Includes: Kurta & Pajama",
+    "price": 1049,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794723579/wvhx1qlio7ye2qqvudlv.jpg",
+    "createdAt": "2026-11-15 06:22:23.008",
+    "updatedAt": "2026-11-15 06:22:23.008",
+    "ageGroup": "0-1 Yrs, 1-2 Yrs",
+    "category": "Boys",
+    "stock": 2,
+    "style": "kurta payjama",
+    "ageGroups": [
+      "0-1 Yrs",
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Royal Blue Golden Embroidered Boys Kurta Set",
+    "description": "Colour: Royal Teal Blue\nFabric: Premium Silk Blend\nWork: Beautiful Golden Sequin Embroidery\nNeck: Stylish Mandarin Collar\nSleeves: Full Sleeves\nBottom Options: Matching Dhoti & Pajama Pant\nDupatta: Not Included\nAge Group: 3\\5 Years Boy \nOccasion: Wedding, Birthday, Eid, Diwali, Festival & Party Wear\nTagline: Royal Look for Your Little Prince! 👑💙",
+    "price": 1649,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794994501/dfjzypbu1lk0ocgjok5r.png",
+    "createdAt": "2026-11-15 06:41:49.387",
+    "updatedAt": "2026-11-18 09:35:04.628",
+    "ageGroup": "2-3 Yrs, 3-4 Yrs, 4-5 Yrs",
+    "category": "Boys",
+    "stock": 3,
+    "style": "Dhoti kurta",
+    "ageGroups": [
+      "2-3 Yrs",
+      "3-4 Yrs",
+      "4-5 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Royal Cream Gold Embroidered Boys Kurta Set",
+    "description": "Colour: Cream / Off White\nFabric: Silk Blend\nWork: Golden Sequin Embroidery\nNeck: Mandarin Collar\nDesign: Stylish Jacket with Pocket Brooch\nSleeves: Full Sleeves\nBottom: Matching Pajama\nAge: 4 Years+\nOccasion: Wedding, Birthday, Festival & Party Wear\nTagline: Royal Elegance for Your Little Prince! 👑",
+    "price": 1249,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794994779/u4rfuupkw6jg3av9dyt0.png",
+    "createdAt": "2026-11-15 07:06:17.61",
+    "updatedAt": "2026-11-18 09:39:55.296",
+    "ageGroup": "3-4 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "kurta payjama",
+    "ageGroups": [
+      "3-4 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Cute Bear Alphabet Kids Tracksuit Set",
+    "description": "Colour: Light Grey\nPrint: Orange & Blue Cartoon Bears with Alphabet\nFabric: Premium Cotton Blend\nTop: Full Sleeve Sweatshirt\nBottom: Matching Pajama\nNeck: Round Neck\nAge Group: 4 Years+\nOccasion: Casual Wear, School, Play & Outing\nTagline: Cute Style for Your Little Champ! ❤️",
+    "price": 1149,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794994843/uwjyltqhsd0dcqx1nbv5.png",
+    "createdAt": "2026-11-15 06:49:10.745",
+    "updatedAt": "2026-11-18 09:40:46.575",
+    "ageGroup": "3-4 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "3-4 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Royal Monogram Kids Printed Hoodie Tracksuit",
+    "description": "Colour: Cream with Brown Print\nFabric: Premium Cotton Blend (दिखने के आधार पर)\nTop: Full Sleeve Hooded Sweatshirt\nPrint: All-over Monogram & Cartoon Character\nBottom: Matching Jogger Pajama\nWaist: Elastic with Drawstring\nAge Group: 4 Years+\nOccasion: Casual Wear, Winter Wear, School & Outing\nTagline: Stylish Comfort for Your Little Champ! ❤️",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794726931/h14nbtehhochwalqjggm.jpg",
+    "createdAt": "2026-11-15 07:16:33.857",
+    "updatedAt": "2026-11-15 07:16:33.857",
+    "ageGroup": "3-4 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "3-4 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "💚 Little Gentleman – Olive Green Cargo Look",
+    "description": "A cute 2-year-old baby boy dressed in a stylish olive green denim sleeveless jacket, paired with a beautiful white geometric printed full-sleeve shirt and matching olive green cargo pants. Complete the look with white sneakers for a smart and trendy appearance. His adorable smile and charming style make him look like a little gentleman. \nLook: Smart, Stylish & Trendy Baby Boy Fashion. 👦💚",
+    "price": 2049,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794813676/a42gurv7fd7cs3v9tnvw.jpg",
+    "createdAt": "2026-11-16 07:23:42.329",
+    "updatedAt": "2026-11-16 07:23:42.329",
+    "ageGroup": "2-3 Yrs, 3-4 Yrs, 4-5 Yrs",
+    "category": "Boys",
+    "stock": 3,
+    "style": "PANT SHIRTS",
+    "ageGroups": [
+      "2-3 Yrs",
+      "3-4 Yrs",
+      "4-5 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "🤎 Little Rockstar – Camouflage Cargo Outfit",
+    "description": "A cute 2-year-old baby boy wearing a stylish brown and beige camouflage printed shirt over a white graphic T-shirt, paired with trendy dark brown cargo pants. Complete the look with white sneakers for a cool, smart and fashionable appearance. His adorable smile adds extra charm to this little rockstar look. \nLook: Cool • Trendy • Smart • Adorable 👦🤎",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794937184/q7a9fbefmjtyfjiwsyof.png",
+    "createdAt": "2026-11-16 07:25:09.178",
+    "updatedAt": "2026-11-17 17:39:52.768",
+    "ageGroup": "2-3 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "PANT SHIRTS",
+    "ageGroups": [
+      "2-3 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Stylish Denim Boys Set",
+    "description": "Trendy navy blue striped denim jacket with a white printed T-shirt and dark blue cargo pants. Comfortable, stylish and perfect for casual wear, parties and outings.",
+    "price": 2299,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794937560/mxkpff08mfvd71s49oac.png",
+    "createdAt": "2026-11-16 07:29:00.034",
+    "updatedAt": "2026-11-17 17:46:07.762",
+    "ageGroup": "2-3 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "PANT SHIRTS",
+    "ageGroups": [
+      "2-3 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Stylish Red & Navy Denim Boys Set",
+    "description": "Trendy red and navy striped denim jacket with a white printed T-shirt and navy blue pants. Comfortable, fashionable and perfect for parties, casual wear and outings.",
+    "price": 2299,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794937604/uhtynh4ww2kpuzkee615.png",
+    "createdAt": "2026-11-16 07:26:53.463",
+    "updatedAt": "2026-11-17 17:46:48.733",
+    "ageGroup": "2-3 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "PANT SHIRTS",
+    "ageGroups": [
+      "2-3 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Boys Armani Exchange Black Hoodie & Jogger Set",
+    "description": "4 Years Boys ke liye stylish black winter co-ord set. Isme soft aur warm fabric ki hooded sweatshirt hai, jis par front mein attractive Armani Exchange lettering print diya gaya hai. Matching black jogger pants elasticated waistband ke saath hain. Comfortable fitting aur trendy look ke liye perfect outfit. Daily wear, outing aur winter wear ke liye best choice. ❤️",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794937730/kmwlwwkzmvro1qjxm9g1.png",
+    "createdAt": "2026-11-15 07:20:55.137",
+    "updatedAt": "2026-11-17 17:49:27.523",
+    "ageGroup": "3-4 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "3-4 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Little King Green Monogram Printed Kids Hoodie Set 💚",
+    "description": "Colour: Parrot Green\nFabric: Premium Cotton Blend (दिखने के आधार पर)\nTop: Full Sleeve Hooded Sweatshirt\nPrint: All-Over Monogram Print with Cute Cartoon Character\nBottom: Matching Jogger Pajama\nWaist: Elastic with Adjustable Drawstring\nAge Group: 4 Years+\nOccasion: Casual Wear, Winter Wear, School & Outing\nTagline: Premium Style & Ultimate Comfort for Your Little Champ! 👑",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794992946/ammyawz1ybt37ysbovwc.png",
+    "createdAt": "2026-11-15 07:17:56.201",
+    "updatedAt": "2026-11-18 09:09:14.907",
+    "ageGroup": "3-4 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "3-4 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Cute Teddy Bear Kids Winter Sweater Set",
+    "description": "Colour: Brown & Navy Blue\nDesign: Cable Knit Pattern with Teddy Bear Patch\nNeck: Round Neck\nSleeves: Full Sleeves\nBottom: Matching Navy Blue Pant\nFabric: Premium Woollen Blend Look\nAge: 4 Years+\nOccasion: Winter Wear, Casual, School & Outing\nTagline: Warm & Stylish Look for Your Little Champ! 👑",
+    "price": 1999,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794994755/rxn1sgada2z6gijuw8xz.png",
+    "createdAt": "2026-11-15 07:13:10.751",
+    "updatedAt": "2026-11-18 09:39:19.03",
+    "ageGroup": "3-4 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "3-4 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Armani Exchange Black Kids Tracksuit Set",
+    "description": "Colour: Classic Black\nFabric: Premium Cotton Blend (दिखने के आधार पर)\nTop: Full Sleeve Hooded Sweatshirt\nPrint: Armani Exchange Logo Print\nBottom: Matching Black Pajama\nWaist: Elastic with Drawstring\nAge Group: 4 Years+\nOccasion: Casual Wear, Winter Wear, School & Outing\nTagline: Look Smart, Feel Awesome! 🖤",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794994956/ebdenhvstvhxecla6jzj.png",
+    "createdAt": "2026-11-15 06:50:42.435",
+    "updatedAt": "2026-11-18 09:42:41.764",
+    "ageGroup": "3-4 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "3-4 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Chicago Bulls Jordan 08 Kids Winter Wear Set",
+    "description": "Colour: Pink & Navy Blue\nTop: Full Sleeve Knitted Sweater\nPrint: Chicago Bulls 08 Jordan\nNeck: Round Neck\nBottom: Navy Blue Denim Jogger Pant\nWaist: Elastic with Drawstring\nAge Group: 4 Years+\nOccasion: Winter Wear, Casual, School & Outing\nTagline: Sporty Style for Your Little Champ! 🏀",
+    "price": 1899,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794995400/jtcjrmv2eptbfnauxydw.png",
+    "createdAt": "2026-11-15 07:14:47.714",
+    "updatedAt": "2026-11-18 09:50:04.992",
+    "ageGroup": "3-4 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "3-4 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Armani Exchange Kids Olive Green Tracksuit Set",
+    "description": "Colour: Olive Green\nFabric: Premium Cotton Blend\nTop: Hooded Sweatshirt\nBottom: Matching Pajama\nDesign: Armani Exchange Logo Print\nSleeves: Full Sleeves\nAge Group: 6 Years+\nOccasion: Casual Wear, School, Travel & Outing\nTagline: Comfort Meets Style! 😎",
+    "price": 1549,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794995063/ukdhi5igjqxivxxobaqw.png",
+    "createdAt": "2026-11-15 07:08:12.582",
+    "updatedAt": "2026-11-18 11:52:43.669",
+    "ageGroup": "3-4 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "3-4 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "BOSS Winter Boys Sweater & Jogger Set",
+    "description": "A stylish and comfortable winter outfit for little boys. This trendy set features a beautiful BOSS printed woolen sweater with attractive olive green and beige stripes, paired with matching olive green jogger pants. Perfect for keeping your little one warm and fashionable.\nFeatures:\nPremium winter wear\nSoft and cozy fabric\nTrendy BOSS print\nMatching jogger pants\nStylish full sleeves\nAge Group: 2–5 Years (select size as per availability)\nCategory: Boys Winter Wear – 2 Piece Set",
+    "price": 1999,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794824634/tsfbmeqpgujlz9umduz2.jpg",
+    "createdAt": "2026-11-16 10:30:25.436",
+    "updatedAt": "2026-11-16 10:30:25.436",
+    "ageGroup": "1-2 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Teddy Bear Printed Winter Sweater & Pant Set",
+    "description": "Make your little boy look adorable with this stylish blue winter co-ord set. Featuring a cute teddy bear patch sweater with beautiful cable-knit detailing, round neck and matching blue knitted pants. Soft, warm and comfortable for everyday winter wear.\nFeatures:\nAttractive teddy bear patch\nBeautiful blue and white combination\nPremium knitted design\nFull sleeves round-neck sweater\nMatching knitted pants\nWarm and comfortable winter wear\nAge Group: 2–5 Years (subject to size availability)\nCategory: Boys Winter Wear – 2 Piece Co-ord Set\nShort tagline: Little Style, Big Cuteness! 💙",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794825069/kpfwxn36jc4x78z1okie.jpg",
+    "createdAt": "2026-11-16 10:31:53.778",
+    "updatedAt": "2026-11-16 10:31:53.778",
+    "ageGroup": "1-2 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Teal Green & White Striped Winter Co-ord Set 💚",
+    "description": "A stylish and adorable winter outfit for baby boys, featuring a teal green and white striped full-sleeve sweater with a cute embroidered chest detail, paired with matching teal green jogger pants and white sneakers. Perfect for keeping your little champ warm, cozy, and fashionable during the winter season. ❤️",
+    "price": 1899,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794825320/wrvwy0xqzpoznkimq4gs.jpg",
+    "createdAt": "2026-11-16 10:37:55.08",
+    "updatedAt": "2026-11-16 10:37:55.08",
+    "ageGroup": "1-2 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Navy Blue & White Plaid Hooded Winter Co-ord Set 💙",
+    "description": "A stylish and adorable winter outfit for baby boys, featuring a white full-sleeve hooded sweater with a navy blue and grey checkered pattern, cute embroidered detailing, and a front drawstring hood. Paired with comfortable navy blue jogger pants and matching white sneakers. Perfect for keeping your little champ warm, cozy, and looking smart and trendy during the winter season. ❤️",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794825512/twvwy8v2qcoeovg9khce.jpg",
+    "createdAt": "2026-11-16 10:39:32.819",
+    "updatedAt": "2026-11-16 10:39:32.819",
+    "ageGroup": "1-2 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Little Boss Green & Cream Winter Co-ord Set 💚",
+    "description": "A stylish and premium winter outfit for baby boys, featuring a beautiful green and cream full-sleeve sweater with a textured knit design and bold BIG BOSS lettering, paired with matching green jogger pants featuring BOSS detailing and cream knitted accents. Perfect for keeping your little champ warm, cozy, and looking smart and fashionable throughout the winter season. ❤️",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794825619/b2mkfxhpmh1uendy3ml1.jpg",
+    "createdAt": "2026-11-16 10:41:18.334",
+    "updatedAt": "2026-11-16 10:41:18.334",
+    "ageGroup": "1-2 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Chicago Bulls Olive Green Winter Sweatshirt Set 💚",
+    "description": "A trendy and sporty winter outfit for baby boys, featuring an olive green full-sleeve sweatshirt with bold Chicago Bulls and Jordan printed lettering, paired with stylish dark blue denim jogger pants and white sneakers. Perfect for giving your little champ a cool, comfortable, and fashionable sporty look. ❤️",
+    "price": 1899,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794825705/wdwfgzxbk93ktmc1d0wl.jpg",
+    "createdAt": "2026-11-16 10:42:45.776",
+    "updatedAt": "2026-11-16 10:42:45.776",
+    "ageGroup": "1-2 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Lucky Bear Green Winter Sweater Set 🧸💚",
+    "description": "A trendy and stylish winter outfit for baby boys, featuring a bright green full-sleeve sweater with an adorable Lucky Bear print and attractive multicolour patterns, paired with comfortable black pants and matching green ankle cuffs. Perfect for keeping your little champ warm, cozy, and fashionable during the winter season. ❤️",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794825795/utfv3jtw6t5egfjpiflc.jpg",
+    "createdAt": "2026-11-16 10:43:52.234",
+    "updatedAt": "2026-11-16 10:43:52.234",
+    "ageGroup": "1-2 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "❤️ Little Fashion King – Red Tiger Style",
+    "description": "A cute 2-year-old baby boy wearing a stylish red tiger-printed sweatshirt with black sleeve detailing, paired with trendy black cargo pants featuring red branding. Complete the look with white star-design sneakers for a cool, smart and fashionable appearance. His adorable smile makes him look like a little superstar.\nLook Highlights:\nRed Tiger Printed Sweatshirt\nBlack Cargo Pants\nStylish Red Detailing\nWhite Star Sneakers\nLook: Smart • Cool • Trendy • Adorable 👑❤️",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794934053/egrswslglrnr3wqmlrrz.png",
+    "createdAt": "2026-11-16 08:20:01.303",
+    "updatedAt": "2026-11-17 16:47:40.547",
+    "ageGroup": "1-2 Yrs, 2-3 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "jeans tishirt",
+    "ageGroups": [
+      "1-2 Yrs",
+      "2-3 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Little Adventure King – Olive Cargo Style",
+    "description": "A cute 2-year-old baby boy wearing a stylish olive green denim jacket with black patch detailing, paired with a trendy black graphic T-shirt and matching beige cargo pants. Complete the look with white star-design sneakers for a cool and fashionable appearance. His adorable smile makes this outfit even more charming.\nLook Highlights:\nStylish Olive Green Denim Jacket\nBlack Graphic Printed T-Shirt\nMatching Beige Cargo Pants\nWhite Trendy Sneakers\nLook: Smart • Cool • Trendy • Adorable 💚👦",
+    "price": 1699,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794934197/kj1qi9u5ycta0gjuwkvp.png",
+    "createdAt": "2026-11-16 07:39:26.973",
+    "updatedAt": "2026-11-17 16:50:02.369",
+    "ageGroup": "2-3 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "PANT SHIRTS",
+    "ageGroups": [
+      "2-3 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Little Kenzo Star – Green Tiger Style",
+    "description": "A cute 2-year-old baby boy wearing a stylish green Kenzo tiger-printed sweatshirt with black sleeve detailing, paired with matching black cargo pants featuring Kenzo branding. Complete the outfit with white star-design sneakers for a cool, smart and trendy appearance. His adorable smile makes him look like a little fashion superstar.\nLook Highlights:\nGreen Tiger Printed Sweatshirt\nBlack Cargo Pants\nKenzo Logo Detailing\nWhite Star Sneakers\nLook: Smart • Stylish • Cool • Adorable",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1795002574/tofcnf5vbwjgrkmfdpsz.jpg",
+    "createdAt": "2026-11-16 08:27:54.162",
+    "updatedAt": "2026-11-18 11:49:41.936",
+    "ageGroup": "2-3 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "jeans tishirt",
+    "ageGroups": [
+      "2-3 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Little Champ Teddy Bear Caramel Winter Co-ord Set 🧸",
+    "description": "A cute and stylish winter outfit for baby boys, featuring a caramel brown and cream full-sleeve sweater with an adorable teddy bear print, matching jogger pants, and white sneakers. Made for a soft, warm, and comfortable feel, this outfit gives your little champ a smart and charming winter look.\nI can also suggest more cute baby boy outfit names and descriptions",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794825875/vxcqcucqhcklqe3uj64w.jpg",
+    "createdAt": "2026-11-16 10:45:11.815",
+    "updatedAt": "2026-11-16 10:45:11.815",
+    "ageGroup": "1-2 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Little Teddy Bear Green & Cream Winter Co-ord Set 💚🧸",
+    "description": "A cute and stylish winter outfit for baby boys, featuring a beautiful green and cream full-sleeve knitted sweater with an adorable teddy bear skateboard embroidery on the front, attractive textured detailing, and striped ribbed borders. Paired with matching green jogger pants with comfortable elasticated waist and ankle cuffs. Perfect for keeping your little champ warm, cozy, and fashionable during winter. ❤️",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794826610/j1gtlhnlkcmyvjlz0who.jpg",
+    "createdAt": "2026-11-16 10:58:29.545",
+    "updatedAt": "2026-11-16 10:58:29.545",
+    "ageGroup": "1-2 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Little Boss Mustard & Cream Cable Knit Winter Co-ord Set 💛",
+    "description": "A stylish and cozy winter outfit for baby boys, featuring a mustard yellow and cream full-sleeve cable-knit sweater with bold BIG BOSS lettering and attractive contrast sleeve detailing, paired with matching mustard jogger pants featuring BOSS printed detailing. Perfect for keeping your little champ warm, comfortable, and fashionable during the winter season. ❤️",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794826741/wmlvmeb6dlb2eoq6g4jc.jpg",
+    "createdAt": "2026-11-16 10:59:57.165",
+    "updatedAt": "2026-11-16 10:59:57.165",
+    "ageGroup": "1-2 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Little Champ Multicolour Hooded Winter Sweater ❤️",
+    "description": "A stylish and cozy winter sweater for baby boys, featuring a navy blue hooded design with attractive red, cream, and mustard colour-block sleeves. Enhanced with bold printed lettering, a front drawstring hood, and ribbed cuffs and hem. Perfect for keeping your little champ warm and fashionable during the winter season.\nNote: This is a sweater only. Bottom wear is not included. ❤️",
+    "price": 1999,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794826834/bymwjl7fsvdgp62jnim9.jpg",
+    "createdAt": "2026-11-16 11:01:17.433",
+    "updatedAt": "2026-11-16 11:01:17.433",
+    "ageGroup": "1-2 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "Regular",
+    "ageGroups": [
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "❤️ Little Stylish Star – Red Polo Look",
+    "description": "A cute 2-year-old baby boy wearing a stylish red geometric printed polo T-shirt with a smart collar and button detailing, paired with comfortable beige cargo jogger pants. Complete the look with white sporty sneakers for a smart, classy and trendy appearance. His adorable smile makes him look like a little fashion star.\nLook Highlights:\nRed Printed Polo T-Shirt\nBeige Cargo Jogger Pants\nWhite Stylish Sneakers\nSmart & Comfortable Outfit\nLook: Smart • Classy • Trendy • Adorable 👑❤️",
+    "price": 1599,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794933744/d7tylenl4vl97g6fmcta.png",
+    "createdAt": "2026-11-16 08:21:52.184",
+    "updatedAt": "2026-11-17 16:42:28.468",
+    "ageGroup": "0-6 Months, 2-3 Yrs, 5-6 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "jeans tishirt",
+    "ageGroups": [
+      "0-6 Months",
+      "2-3 Yrs",
+      "5-6 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "🤎 Little Rockstar – Camouflage Cargo Outfit",
+    "description": "A cute 2-year-old baby boy wearing a stylish brown and beige camouflage printed shirt over a white graphic T-shirt, paired with trendy dark brown cargo pants. Complete the look with white sneakers for a cool, smart and fashionable appearance. His adorable smile adds extra charm to this little rockstar look. \nLook: Cool • Trendy • Smart • Adorable 👦🤎",
+    "price": 1699,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794937130/tu4bxgjcgfyuxqn9rjcc.png",
+    "createdAt": "2026-11-16 07:38:04.063",
+    "updatedAt": "2026-11-17 17:38:56.856",
+    "ageGroup": "2-3 Yrs",
+    "category": "Boys",
+    "stock": 1,
+    "style": "PANT SHIRTS",
+    "ageGroups": [
+      "2-3 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Elegant Dark Green Ethnic Kurta with White Pant Set for Boys",
+    "description": "Stylish and classy dark green kurta set for boys, featuring an elegant all-over self-design pattern, mandarin collar and full sleeves. Paired with comfortable white pants, this outfit gives a perfect traditional yet modern look. Ideal for weddings, festivals, birthday parties and family functions.\nDetails:\nColour: Dark Green & White\nAge: 12 Years Boys\nSet: 1 Kurta + 1 White Pant\nStyle: Traditional Ethnic Wear\nOccasion: Wedding, Festival & Party Wear",
+    "price": 1499,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794937345/zzipcewiepk1wfsua74u.png",
+    "createdAt": "2026-11-15 07:31:36.705",
+    "updatedAt": "2026-11-17 17:42:31.3",
+    "ageGroup": "5-6 Yrs, 6-7 Yrs, 7-8 Yrs",
+    "category": "Boys",
+    "stock": 5,
+    "style": "kurta payjama",
+    "ageGroups": [
+      "5-6 Yrs",
+      "6-7 Yrs",
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Elegant Black Embroidered Kids Kurta Set",
+    "description": "Colour: Black Kurta\nPajama: White\nDesign: Floral / Self Embroidery\nNeck: Mandarin Collar\nSleeves: Full Sleeves\nStyle: Traditional & Festive Wear\nOccasion: Wedding, Eid, Festival & Party Wear",
+    "price": 1199,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1794994470/wlvzx8leve1g9ksxwi0b.png",
+    "createdAt": "2026-11-15 06:30:29.803",
+    "updatedAt": "2026-11-18 09:34:35.497",
+    "ageGroup": "5-6 Yrs, 6-7 Yrs, 7-8 Yrs",
+    "category": "Boys",
+    "stock": 3,
+    "style": "kurta payjama",
+    "ageGroups": [
+      "5-6 Yrs",
+      "6-7 Yrs",
+      "7-8 Yrs"
+    ],
+    "categories": [
+      "Boys"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Baby Boy Dark Grey Winter Tracksuit Set ",
+    "description": "A cute 6-month-old baby boy wearing a dark grey full-sleeves winter sweatshirt with matching elastic-waist pants. A soft, warm and comfortable outfit, perfect for everyday wear. ❤️",
+    "price": 400,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1795004924/zyt4jtfnspfwczbdpmmu.jpg",
+    "createdAt": "2026-11-18 12:31:43.337",
+    "updatedAt": "2026-11-18 12:31:43.337",
+    "ageGroup": "0-6 Months, 6-12 Months",
+    "category": "Thermal",
+    "stock": 5,
+    "style": "Thermal",
+    "ageGroups": [
+      "0-6 Months",
+      "6-12 Months"
+    ],
+    "categories": [
+      "Thermal"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Baby Boy Dark Charcoal Grey Winter Tracksuit Set",
+    "description": "A cute 6-month-old baby boy wearing a dark charcoal grey full-sleeves sweatshirt with matching comfortable jogger pants. A simple, stylish and cozy winter outfit, perfect for everyday wear. ❤️",
+    "price": 800,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1795005286/sl80lpqcjeokexw2ruxx.jpg",
+    "createdAt": "2026-11-18 12:35:26.128",
+    "updatedAt": "2026-11-18 12:35:26.128",
+    "ageGroup": "0-6 Months, 6-12 Months",
+    "category": "Thermal",
+    "stock": 5,
+    "style": "Thermal",
+    "ageGroups": [
+      "0-6 Months",
+      "6-12 Months"
+    ],
+    "categories": [
+      "Thermal"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Baby Boy Charcoal Grey Ribbed Full Sleeve Button Cardigan",
+    "description": "Give your little one a cute and stylish look with this adorable Charcoal Grey Baby Cardigan. Made from soft and comfortable ribbed fabric, it features a stylish V-neck design, front button closure and full sleeves. The attractive colourful BEACH DAY cartoon patch adds a playful touch to the outfit.\nFeatures:\nColour: Charcoal Grey\nPattern: Ribbed Texture\nNeck: V-Neck\nSleeves: Full Sleeve\nClosure: Front Button\nDesign: Cute Cartoon Patch\nQuantity: 1 Piece (Upper Only)\nSuitable for: Baby Boys\nComfortable and stylish everyday wear",
+    "price": 400,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1795005698/oubduv7vk1gkq9rkjc7b.jpg",
+    "createdAt": "2026-11-18 12:45:01.378",
+    "updatedAt": "2026-11-18 12:45:01.378",
+    "ageGroup": "0-6 Months, 6-12 Months, 0-1 Yrs, 1-2 Yrs",
+    "category": "Thermal",
+    "stock": 20,
+    "style": "Thermal",
+    "ageGroups": [
+      "0-6 Months",
+      "6-12 Months",
+      "0-1 Yrs",
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Thermal"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Baby Charcoal Grey Ribbed Cotton Look Jogger Bottom",
+    "description": "Keep your little one comfortable and stylish with this adorable Charcoal Grey Baby Boy Bottom. Designed with a soft ribbed texture, it features an elasticated waistband with drawstring detail and comfortable ankle cuffs. Its trendy design makes it perfect for everyday wear, casual outings and cozy styling",
+    "price": 400,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1795006141/bhro261ouampbv0onkhf.jpg",
+    "createdAt": "2026-11-18 12:50:01.188",
+    "updatedAt": "2026-11-18 12:50:01.188",
+    "ageGroup": "0-6 Months, 6-12 Months, 0-1 Yrs, 1-2 Yrs",
+    "category": "Thermal",
+    "stock": 20,
+    "style": "Thermal",
+    "ageGroups": [
+      "0-6 Months",
+      "6-12 Months",
+      "0-1 Yrs",
+      "1-2 Yrs"
+    ],
+    "categories": [
+      "Thermal"
+    ]
+  }
+]

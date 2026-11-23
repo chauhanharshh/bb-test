@@ -4,16 +4,7 @@ const path = require("path");
 
 const prisma = new PrismaClient();
 
-// Support running from root or backend folder
-const possibleDirs = [
-  path.join(__dirname, "newdata", "extracted_json"),
-  path.join(__dirname, "..", "newdata", "extracted_json"),
-  path.join(__dirname, "..", "..", "newdata", "extracted_json"),
-  path.join(process.cwd(), "newdata", "extracted_json"),
-  path.join(process.cwd(), "..", "newdata", "extracted_json"),
-];
-
-const DATA_DIR = possibleDirs.find((d) => fs.existsSync(d)) || possibleDirs[0];
+const DATA_DIR = path.join(__dirname, "..", "newdata", "extracted_json");
 
 function loadJson(filename) {
   const filePath = path.join(DATA_DIR, filename);
@@ -31,6 +22,7 @@ async function syncSequence(tableName) {
       `SELECT setval(pg_get_serial_sequence('"public"."' || '${tableName}' || '"', 'id'), COALESCE((SELECT MAX(id) FROM "public"."${tableName}"), 1));`
     );
   } catch (err) {
+    // Some tables might not use default sequence or schema difference
     try {
       await prisma.$executeRawUnsafe(
         `SELECT setval(pg_get_serial_sequence('"${tableName}"', 'id'), COALESCE((SELECT MAX(id) FROM "${tableName}"), 1));`
@@ -143,17 +135,17 @@ async function main() {
     await prisma.storeProfile.upsert({
       where: { id: sp.id },
       update: {
-        storeName: sp.storeName,
+        storeName: String(sp.storeName || "Baby Bloom"),
         tagline: sp.tagline,
         ownerName: sp.ownerName,
-        phone: sp.phone,
-        whatsappNumber: sp.whatsappNumber,
+        phone: sp.phone ? String(sp.phone) : null,
+        whatsappNumber: sp.whatsappNumber ? String(sp.whatsappNumber) : null,
         email: sp.email,
         addressLine1: sp.addressLine1,
         addressLine2: sp.addressLine2,
         city: sp.city,
         state: sp.state,
-        pincode: sp.pincode,
+        pincode: sp.pincode ? String(sp.pincode) : null,
         instagramUrl: sp.instagramUrl,
         facebookUrl: sp.facebookUrl,
         aboutText: sp.aboutText,
@@ -165,25 +157,25 @@ async function main() {
         cardEnabled: !!sp.cardEnabled,
         netbankingEnabled: !!sp.netbankingEnabled,
         bankName: sp.bankName,
-        accountNumber: sp.accountNumber,
+        accountNumber: sp.accountNumber ? String(sp.accountNumber) : null,
         ifscCode: sp.ifscCode,
         accountHolderName: sp.accountHolderName,
-        gstNumber: sp.gstNumber,
+        gstNumber: sp.gstNumber ? String(sp.gstNumber) : null,
         updatedAt: sp.updatedAt ? new Date(sp.updatedAt) : new Date(),
       },
       create: {
         id: sp.id,
-        storeName: sp.storeName,
+        storeName: String(sp.storeName || "Baby Bloom"),
         tagline: sp.tagline,
         ownerName: sp.ownerName,
-        phone: sp.phone,
-        whatsappNumber: sp.whatsappNumber,
+        phone: sp.phone ? String(sp.phone) : null,
+        whatsappNumber: sp.whatsappNumber ? String(sp.whatsappNumber) : null,
         email: sp.email,
         addressLine1: sp.addressLine1,
         addressLine2: sp.addressLine2,
         city: sp.city,
         state: sp.state,
-        pincode: sp.pincode,
+        pincode: sp.pincode ? String(sp.pincode) : null,
         instagramUrl: sp.instagramUrl,
         facebookUrl: sp.facebookUrl,
         aboutText: sp.aboutText,
@@ -195,10 +187,10 @@ async function main() {
         cardEnabled: !!sp.cardEnabled,
         netbankingEnabled: !!sp.netbankingEnabled,
         bankName: sp.bankName,
-        accountNumber: sp.accountNumber,
+        accountNumber: sp.accountNumber ? String(sp.accountNumber) : null,
         ifscCode: sp.ifscCode,
         accountHolderName: sp.accountHolderName,
-        gstNumber: sp.gstNumber,
+        gstNumber: sp.gstNumber ? String(sp.gstNumber) : null,
         createdAt: sp.createdAt ? new Date(sp.createdAt) : new Date(),
         updatedAt: sp.updatedAt ? new Date(sp.updatedAt) : new Date(),
       },
@@ -376,13 +368,13 @@ async function main() {
         orderId: inv.orderId,
         customerName: inv.customerName,
         customerEmail: inv.customerEmail,
-        customerPhone: inv.customerPhone,
+        customerPhone: inv.customerPhone ? String(inv.customerPhone) : null,
         customerAddress: inv.customerAddress,
         paymentMethod: inv.paymentMethod,
         storeName: inv.storeName,
-        storeGstNumber: inv.storeGstNumber,
+        storeGstNumber: inv.storeGstNumber ? String(inv.storeGstNumber) : null,
         storeAddress: inv.storeAddress,
-        storePhone: inv.storePhone,
+        storePhone: inv.storePhone ? String(inv.storePhone) : null,
         storeEmail: inv.storeEmail,
         subtotal: parseFloat(inv.subtotal) || 0,
         cgstAmount: parseFloat(inv.cgstAmount) || 0,
@@ -397,13 +389,13 @@ async function main() {
         orderId: inv.orderId,
         customerName: inv.customerName,
         customerEmail: inv.customerEmail,
-        customerPhone: inv.customerPhone,
+        customerPhone: inv.customerPhone ? String(inv.customerPhone) : null,
         customerAddress: inv.customerAddress,
         paymentMethod: inv.paymentMethod,
         storeName: inv.storeName,
-        storeGstNumber: inv.storeGstNumber,
+        storeGstNumber: inv.storeGstNumber ? String(inv.storeGstNumber) : null,
         storeAddress: inv.storeAddress,
-        storePhone: inv.storePhone,
+        storePhone: inv.storePhone ? String(inv.storePhone) : null,
         storeEmail: inv.storeEmail,
         subtotal: parseFloat(inv.subtotal) || 0,
         cgstAmount: parseFloat(inv.cgstAmount) || 0,

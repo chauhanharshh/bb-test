@@ -1,0 +1,56 @@
+[
+  {
+    "id": 2,
+    "name": "Boys",
+    "slug": "boys",
+    "description": "Smart and stylish outfits for boys (1-9 Years)",
+    "imageUrl": "/images/categories/boys-wear.jpg",
+    "createdAt": "2026-10-25 06:55:56.226",
+    "updatedAt": "2026-10-25 06:55:56.226"
+  },
+  {
+    "id": 5,
+    "name": "Innerwear",
+    "slug": "innerwear",
+    "description": "Body care underwear and vest",
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793003301/j5qktc04wjv8zbitd24j.jpg",
+    "createdAt": "2026-10-26 08:28:34.331",
+    "updatedAt": "2026-10-26 08:40:57.947"
+  },
+  {
+    "id": 1,
+    "name": "Girls",
+    "slug": "girls",
+    "description": "Trendy & comfortable wear for little girls (1-9 Years)",
+    "imageUrl": "/images/categories/girls-wear.jpg",
+    "createdAt": "2026-10-25 06:55:55.204",
+    "updatedAt": "2026-10-26 09:14:19.979"
+  },
+  {
+    "id": 8,
+    "name": "Thermal",
+    "slug": "thermal",
+    "description": "Luvlap, body care, Bonzour",
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793015591/irxjyfdlxfuiy3msohna.jpg",
+    "createdAt": "2026-10-26 11:53:36.304",
+    "updatedAt": "2026-10-26 11:53:36.304"
+  },
+  {
+    "id": 9,
+    "name": "Baby wear",
+    "slug": "baby-wear",
+    "description": null,
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793258252/jgos0sau3ztxxjlongey.jpg",
+    "createdAt": "2026-10-29 07:17:40.752",
+    "updatedAt": "2026-10-29 07:17:40.752"
+  },
+  {
+    "id": 4,
+    "name": "Romper",
+    "slug": "romper",
+    "description": "Romper age( 0-3 month)",
+    "imageUrl": "https://res.cloudinary.com/x3mloqgq/image/upload/v1793005843/mvechhu0zjnurr8mcvpb.jpg",
+    "createdAt": "2026-10-25 08:47:57.893",
+    "updatedAt": "2026-11-06 07:41:48.268"
+  }
+]
