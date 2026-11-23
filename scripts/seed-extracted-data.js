@@ -232,15 +232,21 @@ async function main() {
   const offers = loadJson("offers.json");
   console.log(`Seeding Offers (${offers.length})...`);
   for (const o of offers) {
+    const safeProductIds = Array.isArray(o.productIds)
+      ? o.productIds
+          .map((id) => Number(id))
+          .filter((n) => Number.isInteger(n) && Number.isFinite(n))
+      : [];
+
     await prisma.offer.upsert({
       where: { id: o.id },
       update: {
         title: o.title,
         description: o.description,
-        discountPercent: o.discountPercent,
+        discountPercent: parseFloat(o.discountPercent) || 0,
         scope: o.scope || "ALL",
         targetCategory: o.targetCategory,
-        productIds: Array.isArray(o.productIds) ? o.productIds : [],
+        productIds: safeProductIds,
         couponCode: o.couponCode,
         bannerText: o.bannerText,
         isActive: o.isActive !== undefined ? !!o.isActive : true,
@@ -250,10 +256,10 @@ async function main() {
         id: o.id,
         title: o.title,
         description: o.description,
-        discountPercent: o.discountPercent,
+        discountPercent: parseFloat(o.discountPercent) || 0,
         scope: o.scope || "ALL",
         targetCategory: o.targetCategory,
-        productIds: Array.isArray(o.productIds) ? o.productIds : [],
+        productIds: safeProductIds,
         couponCode: o.couponCode,
         bannerText: o.bannerText,
         isActive: o.isActive !== undefined ? !!o.isActive : true,
