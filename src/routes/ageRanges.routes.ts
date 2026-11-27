@@ -74,6 +74,75 @@ ageRangesRouter.post("/", requireAdminAuth, async (req: Request, res: Response) 
   }
 });
 
+// PUT /api/age-ranges/:id (Admin only)
+ageRangesRouter.put("/:id", requireAdminAuth, async (req: Request, res: Response) => {
+  try {
+    const id = parseInt(req.params.id, 10);
+    if (isNaN(id)) return res.status(400).json({ error: "Invalid ID" });
+
+    const { name } = req.body;
+    if (!name || typeof name !== "string" || !name.trim()) {
+      return res.status(400).json({ error: "Age range name is required" });
+    }
+
+    const trimmed = name.trim();
+
+    // Check if duplicate name in another item
+    let duplicate = null;
+    try {
+      duplicate = await prisma.ageRange.findFirst({
+        where: {
+          name: { equals: trimmed, mode: "insensitive" },
+          NOT: { id },
+        },
+      });
+    } catch {
+      const rows: any = await prisma.$queryRawUnsafe(
+        'SELECT * FROM "AgeRange" WHERE LOWER(name) = LOWER($1) AND id != $2 LIMIT 1',
+        trimmed,
+        id
+      );
+      if (Array.isArray(rows) && rows.length > 0) duplicate = rows[0];
+    }
+
+    if (duplicate) {
+      return res.status(409).json({ error: `Another age range with name "${trimmed}" already exists` });
+    }
+
+    let updated: any = null;
+    try {
+      updated = await prisma.ageRange.update({
+        where: { id },
+        data: { name: trimmed },
+      });
+    } catch {
+      const rows: any = await prisma.$queryRawUnsafe(
+        'UPDATE "AgeRange" SET name = $1, "updatedAt" = NOW() WHERE id = $2 RETURNING *',
+        trimmed,
+        id
+      );
+      updated = Array.isArray(rows) && rows.length > 0 ? rows[0] : { id, name: trimmed, order: 0 };
+    }
+
+    let productCount = 0;
+    try {
+      productCount = await prisma.product.count({
+        where: { ageGroup: trimmed },
+      });
+    } catch {
+      // ignore
+    }
+
+    return res.json({
+      ...updated,
+      productCount,
+    });
+  } catch (error: any) {
+    console.error("PUT /api/age-ranges error:", error);
+    return res.status(500).json({ error: error.message || "Failed to update age range" });
+  }
+});
+
 // DELETE /api/age-ranges/:id (Admin only)
 ageRangesRouter.delete("/:id", requireAdminAuth, async (req: Request, res: Response) => {
   try {
