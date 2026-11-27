@@ -4,6 +4,7 @@ import { sendOrderNotificationEmail } from "../lib/email.js";
 import { requireAdminAuth } from "../lib/auth.js";
 import { getActiveOffers, calculateProductOffer } from "../lib/offers.js";
 import { createOrGetInvoiceForOrder } from "../lib/invoices.js";
+import { parseCustomerInfo } from "../lib/order-utils.js";
 
 function sanitizeInput(val?: string, maxLen = 200): string {
   if (!val || typeof val !== "string") return "";
@@ -29,8 +30,21 @@ ordersRouter.get("/", requireAdminAuth, async (_req: Request, res: Response) => 
       orderBy: { createdAt: "desc" },
     });
 
+    const formatted = orders.map((order) => {
+      const customer = parseCustomerInfo(order.customerName);
+      return {
+        ...order,
+        customerName: customer.name,
+        customerEmail: customer.email,
+        phone: customer.phone,
+        address: customer.address,
+        paymentMethod: customer.paymentMethod,
+        rawCustomerName: order.customerName,
+      };
+    });
+
     res.set("Cache-Control", "no-store, max-age=0, must-revalidate");
-    return res.json(orders);
+    return res.json(formatted);
   } catch (error) {
     console.error("Error fetching orders:", error);
     return res.status(500).json({ error: "Failed to fetch orders" });

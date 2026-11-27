@@ -1,5 +1,6 @@
 import prisma from "./prisma.js";
 import { getStoreProfile } from "./profile.js";
+import { parseCustomerInfo } from "./order-utils.js";
 
 export interface InvoiceLineItem {
   sno: number;
@@ -214,15 +215,17 @@ export async function createOrGetInvoiceForOrder(orderId: number): Promise<Invoi
       .filter(Boolean)
       .join(", ");
 
+    const customer = parseCustomerInfo(order.customerName);
+
     const created = await prisma.invoice.create({
       data: {
         invoiceNumber,
         orderId: order.id,
-        customerName: order.customerName,
-        customerEmail: "",
-        customerPhone: "",
-        customerAddress: "",
-        paymentMethod: "COD",
+        customerName: customer.name,
+        customerEmail: customer.email,
+        customerPhone: customer.phone,
+        customerAddress: customer.address,
+        paymentMethod: customer.paymentMethod || "COD",
         storeName: store.storeName,
         storeGstNumber: store.gstNumber || "",
         storeAddress: fullStoreAddress,

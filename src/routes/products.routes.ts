@@ -68,24 +68,25 @@ productsRouter.get("/:id", async (req: Request, res: Response) => {
   }
 });
 
-let productImagesEnsured = false;
-async function ensureProductImagesColumn() {
-  if (productImagesEnsured) return;
+let productColumnsEnsured = false;
+async function ensureProductColumns() {
+  if (productColumnsEnsured) return;
   try {
     await prisma.$executeRawUnsafe(`
       ALTER TABLE "Product" ADD COLUMN IF NOT EXISTS "images" TEXT[] DEFAULT ARRAY[]::TEXT[];
+      ALTER TABLE "Product" ADD COLUMN IF NOT EXISTS "sizes" TEXT[] DEFAULT ARRAY[]::TEXT[];
     `);
-    productImagesEnsured = true;
+    productColumnsEnsured = true;
   } catch (err) {
-    console.warn("Could not ensure images column on Product table:", err);
+    console.warn("Could not ensure images/sizes columns on Product table:", err);
   }
 }
 
 // POST /api/products (Admin only)
 productsRouter.post("/", requireAdminAuth, async (req: Request, res: Response) => {
   try {
-    await ensureProductImagesColumn();
-    const { name, description, price, stock, category, categories, ageGroup, ageGroups, style, imageUrl, images } = req.body;
+    await ensureProductColumns();
+    const { name, description, price, stock, category, categories, ageGroup, ageGroups, style, imageUrl, images, sizes } = req.body;
 
     if (!name || typeof name !== "string" || !name.trim()) {
       return res.status(400).json({ error: "Product name is required" });
@@ -102,6 +103,10 @@ productsRouter.post("/", requireAdminAuth, async (req: Request, res: Response) =
     const finalImages: string[] = Array.isArray(images) && images.length > 0
       ? images.map((img: any) => String(img).trim()).filter(Boolean)
       : (imageUrl ? [String(imageUrl).trim()] : []);
+
+    const finalSizes: string[] = Array.isArray(sizes)
+      ? sizes.map((s: any) => String(s).trim()).filter(Boolean)
+      : [];
 
     const primaryCategory = finalCategories[0] || "Girls";
     const primaryAgeGroup = finalAgeGroups.join(", ") || "0-1 Yrs";
@@ -120,6 +125,7 @@ productsRouter.post("/", requireAdminAuth, async (req: Request, res: Response) =
         style: style || "Regular",
         imageUrl: primaryImage,
         images: finalImages,
+        sizes: finalSizes,
       } as any,
     });
 
@@ -133,13 +139,13 @@ productsRouter.post("/", requireAdminAuth, async (req: Request, res: Response) =
 // PUT /api/products/:id (Admin only)
 productsRouter.put("/:id", requireAdminAuth, async (req: Request, res: Response) => {
   try {
-    await ensureProductImagesColumn();
+    await ensureProductColumns();
     const id = parseInt(req.params.id, 10);
     if (isNaN(id)) {
       return res.status(400).json({ error: "Invalid product ID" });
     }
 
-    const { name, description, price, stock, category, categories, ageGroup, ageGroups, style, imageUrl, images } = req.body;
+    const { name, description, price, stock, category, categories, ageGroup, ageGroups, style, imageUrl, images, sizes } = req.body;
 
     const updateData: any = {};
 
@@ -148,6 +154,12 @@ productsRouter.put("/:id", requireAdminAuth, async (req: Request, res: Response)
     if (price !== undefined) updateData.price = parseFloat(price);
     if (stock !== undefined) updateData.stock = parseInt(stock, 10) || 0;
     if (style !== undefined) updateData.style = style || "Regular";
+
+    if (sizes !== undefined) {
+      updateData.sizes = Array.isArray(sizes)
+        ? sizes.map((s: any) => String(s).trim()).filter(Boolean)
+        : [];
+    }
 
     if (categories !== undefined || category !== undefined) {
       const finalCategories: string[] = Array.isArray(categories) && categories.length > 0

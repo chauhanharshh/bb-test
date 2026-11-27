@@ -10,6 +10,7 @@ import { bannersRouter } from "./banners.routes.js";
 import { invoicesRouter } from "./invoices.routes.js";
 import { profileRouter } from "./profile.routes.js";
 import { ageRangesRouter } from "./ageRanges.routes.js";
+import { labelSizesRouter } from "./labelSizes.routes.js";
 import { keepAliveRouter } from "./keepAlive.routes.js";
 
 export const apiRouter = Router();
@@ -25,5 +26,6 @@ apiRouter.use("/banners", bannersRouter);
 apiRouter.use("/invoices", invoicesRouter);
 apiRouter.use("/profile", profileRouter);
 apiRouter.use("/age-ranges", ageRangesRouter);
+apiRouter.use("/label-sizes", labelSizesRouter);
 apiRouter.use("/keep-alive", keepAliveRouter);
 
